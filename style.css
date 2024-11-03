@@ -39,6 +39,7 @@ ul {
 /* Grid styling for the Available Materials section */
 .materials-grid {
     grid-template-columns: repeat(3, 1fr); /* 3 items per row */
+    justify-content: center;
 }
 .others-grid {
     grid-template-columns: repeat(2, 1fr); /* 2 items per row */
@@ -52,6 +53,7 @@ li {
     padding-left: 50px; /* Retain original left padding */
     padding-right: 50px; /* Retain original right padding */
     text-align: center; /* Center text for better appearance */
+    justify-content: center;
 }
 
 @media (min-width: 600px) {
