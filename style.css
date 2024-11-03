@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #003366;
+    background-color: #002353ba;
     color: #dee1ff;
     padding: 20px;
     text-align: center;
@@ -41,20 +41,23 @@ ul {
     grid-template-columns: repeat(3, 1fr); /* 3 items per row */
 }
 .others-grid {
-    grid-template-columns: repeat(2, 1fr); /* 3 items per row */
+    grid-template-columns: repeat(2, 1fr); /* 2 items per row */
 }
 
 li {
     margin: 15px 0;
 }
 
-.sem {
-    padding-left: 50px;
-    padding-right: 50px;
+.sem, .oth {
+    padding-left: 50px; /* Retain original left padding */
+    padding-right: 50px; /* Retain original right padding */
+    text-align: center; /* Center text for better appearance */
 }
-.oth {
-    margin-left: -125px;
-    padding-right: 0px;
+
+@media (min-width: 600px) {
+    .oth {
+        margin-left: -100px;
+    }
 }
 
 a {
@@ -76,7 +79,6 @@ a:hover {
 
 .personal-details {
     margin-top: 30px;
-  
     padding-top: 20px;
 }
 
@@ -95,7 +97,6 @@ a:hover {
 
 .others {
     margin-top: 30px;
-   
     padding-top: 20px;
 }
 
@@ -119,14 +120,23 @@ a:hover {
     }
 
     .materials-grid {
-        grid-template-columns: 1fr; /* Stack items on small screens */
+        grid-template-columns: repeat(2, 1fr); /* 2 item per row on small screens */
     }
+
+    .others-grid {
+        grid-template-columns: 1fr; /* 1 item per row on small screens */
+    }
+
+    .sem {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
 }
 
 .contributions {
     margin-top: 30px;
     padding-top: 20px;
-    /* Blue border for separation */
 }
 
 .contributions h2 {
