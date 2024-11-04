@@ -1,10 +1,14 @@
-function toggleFolder(id, btn) {
-    var iframe = document.getElementById(id);
-    if (iframe.style.display === "none" || iframe.style.display === "") {
-        iframe.style.display = "block"; // Show the iframe
-        btn.textContent = "Hide Folder"; // Change button text to "Hide Folder"
-    } else {
-        iframe.style.display = "none"; // Hide the iframe
-        btn.textContent = "Show Folder"; // Change button text to "Show Folder"
-    }
-}
+    document.addEventListener("DOMContentLoaded", function() {
+        const toggleButtons = document.querySelectorAll(".toggle-btn");
+        
+        toggleButtons.forEach(button => {
+            button.addEventListener("click", function() {
+                const iframe = this.nextElementSibling; // Assumes iframe follows the button
+                if (iframe.classList.contains("show")) {
+                    iframe.classList.remove("show");
+                } else {
+                    iframe.classList.add("show");
+                }
+            });
+        });
+    });
