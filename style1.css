@@ -76,17 +76,15 @@ iframe.show {
 .back-btn {
     display: inline-block; /* Allows padding and border */
     margin-top: -5px; /* Space above the button */
-    color: #dee1ff; /* Text color */
+    color: #000000; /* Text color */
     text-decoration: none; /* Remove underline */
-    padding: 10px 15px; /* Add padding */
+    padding: 10px 10px; /* Add padding */
     border: 1px solid #dee1ff; /* Border color */
     border-radius: 4px; /* Rounded corners */
-    background-color: #002353ba; /* Background color */
+    background-color: #dee1ff; /* Background color */
     transition: background-color 0.3s, color 0.3s; /* Transition effect */
 }
 
 .back-btn:hover {
-    background-color: #dee1ff; /* Change background on hover */
-    color: #1c1c2a; /* Change text color on hover */
     transform: translateY(-2px);
 }
