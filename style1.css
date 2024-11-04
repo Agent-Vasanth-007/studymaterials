@@ -81,7 +81,7 @@ iframe.show {
     padding: 10px 15px; /* Add padding */
     border: 1px solid #dee1ff; /* Border color */
     border-radius: 4px; /* Rounded corners */
-    background-color: #003366; /* Background color */
+    background-color: #002353ba; /* Background color */
     transition: background-color 0.3s, color 0.3s; /* Transition effect */
 }
 
