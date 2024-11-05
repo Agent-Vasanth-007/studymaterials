@@ -88,3 +88,39 @@ iframe.show {
 .back-btn:hover {
     transform: translateY(-2px);
 }
+
+footer {
+    text-align: center;
+    font-size: 0.8em;
+    color: #dee1ff;
+}
+
+.social-icons a {
+    margin: 0 5px;
+    display: inline-block;
+    border: none;
+    padding: 10px;
+    margin: 10px 10px;
+}
+
+.social-icons img {
+    width: 20px;
+    height: 20px;    
+}
+
+a:hover{
+    background-color: #dee1ff;
+    color: #1c1c2a;
+    transform: translateY(-2px);
+}
+
+a{
+    text-decoration: none;
+    color: #dee1ff;
+    padding: 10px 15px;
+    display: inline-block;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+    border: 1px solid #dee1ff;
+    border-radius: 4px;
+    text-align: center;
+}
