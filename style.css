@@ -161,3 +161,21 @@ a:hover {
     color: #1c1c2a;
     transform: translateY(-2px);
 }
+
+footer {
+    text-align: center;
+    font-size: 0.8em;
+    color: #dee1ff;
+}
+
+.social-icons a {
+    margin: 0 5px;
+    display: inline-block;
+    border: none;
+    
+}
+
+.social-icons img {
+    width: 20px;
+    height: 20px;    
+}
