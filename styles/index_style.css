@@ -1,0 +1,158 @@
+/* Body styling */
+.body-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1c1c2a;
+    color: #dee1ff;
+}
+
+/* Header styling */
+.header-container {
+    background-color: #002353ba;
+    color: #dee1ff;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Main content styling */
+.main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #2c2c3a;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+}
+
+/* Section heading styling */
+.section-heading {
+    color: #dee1ff;
+    border-bottom: 2px solid #0066cc;
+    padding-bottom: 10px;
+}
+
+/* Semester grid styling */
+.semester-grid {
+    list-style-type: none;
+    padding: 20px;
+    display: grid;
+    gap: 10px; /* Horizontal and vertical gap between items */
+    grid-template-columns: repeat(4, 1fr); /* 4 items per row */
+    justify-content: center; /* Centers the entire grid */
+    text-align: center; /* Aligns text content in the grid */
+    grid-template-rows: auto auto; /* Automatically adjusts rows */
+}
+
+/* Adds extra space between the first and second row */
+.semester-grid > li:nth-child(4) {
+    margin-bottom: 20px; /* Add margin below Semester 4 */
+}
+
+/* Grid styling for others section */
+.others-grid {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 40px;
+    margin-right: 100px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(2, 1fr); /* 2 items per row */
+    justify-content: center;
+    text-align: center;
+}
+
+/* Semester link styling */
+.semester-link {
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+    color: #dee1ff;
+    border: 1px solid #dee1ff;
+    border-radius: 4px;
+    text-align: center;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.semester-link:hover {
+    background-color: #dee1ff;
+    color: #1c1c2a;
+    transform: translateY(-2px);
+}
+
+/* Others link styling */
+.others-link {
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+    color: #dee1ff;
+    border: 1px solid #dee1ff;
+    border-radius: 4px;
+    text-align: center;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.others-link:hover {
+    background-color: #dee1ff;
+    color: #1c1c2a;
+    transform: translateY(-2px);
+}
+
+/* Contribution section */
+.contributions-section {
+    margin-top: 30px;
+    padding-top: 20px;
+}
+
+.contribution-link {
+    text-decoration: none;
+    color: #dee1ff;
+    padding: 10px 15px;
+    display: inline-block;
+    border: 1px solid #dee1ff;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+    margin-left: 10px;
+}
+
+.contribution-link:hover {
+    background-color: #dee1ff;
+    color: #1c1c2a;
+    transform: translateY(-2px);
+}
+
+/* Footer styling */
+.footer {
+    text-align: center;
+    padding: 10px;
+    font-size: 0.8em;
+    color: #dee1ff;
+}
+
+/* Social icons */
+.social-icons a {
+    margin: 0 5px;
+    display: inline-block;
+    border: none;
+}
+
+.social-icon-image {
+    width: 20px;
+    height: 20px;    
+}
+
+/* Responsive styling */
+@media (max-width: 600px) {
+    .main-content {
+        padding: 10px;
+    }
+
+    .semester-grid {
+        grid-template-columns: repeat(2, 1fr); /* 2 items per row on small screens */
+    }
+
+    .others-grid {
+        grid-template-columns: 1fr; /* 1 item per row on small screens */
+    }
+}
