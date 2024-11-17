@@ -269,7 +269,12 @@ footer a{
     .dropdown-menu a:hover{
         font-size: 12px;
     }
+    .dropdown-icon {
+    cursor: pointer;
+    font-size: 12px;
+    margin-right: 10px;
     
+}
     .folder-content {
         margin: 5px 3.5px;
         padding: 2px;
