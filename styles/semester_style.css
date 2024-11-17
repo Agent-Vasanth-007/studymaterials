@@ -237,8 +237,8 @@ footer a{
     }
     
     .dropdown-menu {
-        top: 25px;
-        right: 5px;
+        top: 15px;
+        right: 15px;
         width: 130px;
         z-index: 10000; 
         position: absolute;
