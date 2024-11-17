@@ -179,3 +179,19 @@ footer {
     width: 20px;
     height: 20px;    
 }
+
+.back-btn {
+    display: inline-block;
+    margin-top: -5px;
+    color: #000000;
+    text-decoration: none;
+    padding: 10px 10px;
+    border: 1px solid #dee1ff;
+    border-radius: 4px;
+    background-color: #dee1ff;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.back-btn:hover {
+    transform: translateY(-2px);
+}
