@@ -50,6 +50,10 @@
     margin-bottom: 20px; /* Add margin below Semester 4 */
 }
 
+/* Adds extra space between the first and second row */
+.others-grid > li:nth-child(4) {
+    margin-bottom: 20px; /* Add margin below Semester 4 */
+}
 /* Grid styling for others section */
 .others-grid {
     list-style-type: none;
@@ -149,10 +153,35 @@
     }
 
     .semester-grid {
-        grid-template-columns: repeat(2, 1fr); /* 2 items per row on small screens */
+        list-style-type: none;
+        padding: 20px;
+        display: grid;
+        gap: 10px; /* Horizontal and vertical gap between items */
+        grid-template-columns: repeat(2, 1fr); /* 4 items per row */
+        justify-content: center; /* Centers the entire grid */
+        text-align: center; /* Aligns text content in the grid */
+        grid-template-rows: auto auto; /* Automatically adjusts rows */ /* 2 items per row on small screens */
     }
 
     .others-grid {
-        grid-template-columns: 1fr; /* 1 item per row on small screens */
+        list-style-type: none;
+        padding: 0;
+        margin-top: 40px;
+        margin-right: 100px;
+        margin-left: 100px;
+        display: grid;
+        gap: 10px;
+        grid-template-columns: repeat(1, 1fr);
+        justify-content: center;
+        text-align: center;
+    }
+
+    /* Adding margin between semesters in mobile */
+    .semester-grid > li:nth-child(odd) {
+        margin-bottom: 20px; /* Add margin after odd items (Semester 1, 3, 5, 7) */
+    }
+    /* Adding margin between semesters in mobile */
+    .others-grid > li:nth-child(odd) {
+        margin-bottom: 20px; /* Add margin after odd items (Semester 1, 3, 5, 7) */
     }
 }
