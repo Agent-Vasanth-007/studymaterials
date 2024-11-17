@@ -290,12 +290,8 @@ footer a{
         position: relative;
     }
     
-    .file-size, .foldercontent.folder, .dropdown-menu a, .dropdown-icon, .file-link {
+    .file-size, .file, .folder, .dropdown-menu a, .dropdown-icon, .file-link {
         font-size: 12px;
-    }
-
-    .file,.folder{
-        font-size: 14px;
     }
     
     .download-icon img{
@@ -313,7 +309,6 @@ footer a{
     .file,.folder{
         margin-top: 2px;
         margin-bottom: 2px;
-        
     }
     
     .social-icons img {
