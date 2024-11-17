@@ -290,10 +290,14 @@ footer a{
         position: relative;
     }
     
-    .file-size, .file, .folder, .dropdown-menu a, .dropdown-icon, .file-link {
+    .file-size, .foldercontent.folder, .dropdown-menu a, .dropdown-icon, .file-link {
         font-size: 12px;
     }
 
+    .file,.folder{
+        font-size: 14px;
+    }
+    
     .download-icon img{
         width: 14px;
         height: 14px;
