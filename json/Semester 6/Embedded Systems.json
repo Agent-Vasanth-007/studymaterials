@@ -1,0 +1,429 @@
+{
+  "name": "Embedded Systems",
+  "type": "folder",
+  "link": "https://drive.google.com/drive/folders/1P0QvJaCqPmK5w0BlnpQEi8pGrF3zpDDq",
+  "downloadLink": "https://drive.google.com/uc?export=download&id=1bHXEVIye7U6FaZ3mD4XsXggB-QMxTW5b",
+  "size": "1.75 GB",
+  "contents": [
+    {
+      "name": "lab",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1VTwLWv3enKHYmZlhuFVPeAgHnIkwJJnB",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=10GNPnfiyJdb1M7u6JzugWn1wdJ74ZXhU",
+      "size": "1.62 GB",
+      "contents": [
+        {
+          "name": "arm ide video tutorial",
+          "type": "folder",
+          "link": "https://drive.google.com/drive/folders/1b39YPpVZk--BPlIGtIBgaz51vfu8Ekzc",
+          "downloadLink": null,
+          "size": null,
+          "contents": [
+            {
+              "name": "arm7 kit.jpg",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1BIX4JgmSv7pCUmZU6xDK5azk-chrOWDs/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1BIX4JgmSv7pCUmZU6xDK5azk-chrOWDs",
+              "size": "749.06 KB"
+            },
+            {
+              "name": "VID20240202114452.mp4",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1FZMK-euwfq9ah7ErKh4qrIyMI5pSehqN/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1FZMK-euwfq9ah7ErKh4qrIyMI5pSehqN",
+              "size": "444.77 MB"
+            },
+            {
+              "name": "VID20240202114943.mp4",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1JjW7seneeMA4Hx8PJwbwfy5aT68wfkK9/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1JjW7seneeMA4Hx8PJwbwfy5aT68wfkK9",
+              "size": "294.37 MB"
+            },
+            {
+              "name": "VID20240202115334.mp4",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1Otj_COPn3wOza5Vtbc-0UwhjGIELobgT/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1Otj_COPn3wOza5Vtbc-0UwhjGIELobgT",
+              "size": "41.47 MB"
+            },
+            {
+              "name": "WhatsApp Video 2024-05-01 at 19.19.11_a4f746e7.mp4",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1UmqnaDYDZPb-tMiDfYCshGxIG6_x_u63/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1UmqnaDYDZPb-tMiDfYCshGxIG6_x_u63",
+              "size": "30.05 MB"
+            }
+          ]
+        },
+        {
+          "name": "assembly language",
+          "type": "folder",
+          "link": "https://drive.google.com/drive/folders/1BWir6Yugqn6t9TLoGZ5QSiDCb9BQovQ_",
+          "downloadLink": null,
+          "size": null,
+          "contents": [
+            {
+              "name": "arithmetic alp program.txt",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1qmlk_6WG389zcc9q5gnqosyb-WiB-TRn/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1qmlk_6WG389zcc9q5gnqosyb-WiB-TRn",
+              "size": "2.23 KB"
+            },
+            {
+              "name": "tutorial.mp4",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1csz4b_Y2j96FV9tJpLaOhobeKmWVky8u/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1csz4b_Y2j96FV9tJpLaOhobeKmWVky8u",
+              "size": "845.72 MB"
+            }
+          ]
+        },
+        {
+          "name": "embedded c",
+          "type": "folder",
+          "link": "https://drive.google.com/drive/folders/1U0OCByqgaJ4OVRAAJYJQ1ZLN3hn3CcRv",
+          "downloadLink": null,
+          "size": null,
+          "contents": [
+            {
+              "name": "adc.c",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/13QhLibxuool9OYm0xnU1LwpzSi7bJEdW/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=13QhLibxuool9OYm0xnU1LwpzSi7bJEdW",
+              "size": "2.45 KB"
+            },
+            {
+              "name": "lcd.c",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/16LUARHGEqfYBOUjVrLP_mTV_8Y39OCb1/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=16LUARHGEqfYBOUjVrLP_mTV_8Y39OCb1",
+              "size": "1.28 KB"
+            },
+            {
+              "name": "led.c",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1sBqjdSUPpfC8Y1ReZRCwOqN7GWZQ35uR/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1sBqjdSUPpfC8Y1ReZRCwOqN7GWZQ35uR",
+              "size": "727 bytes"
+            },
+            {
+              "name": "LPC2148_flash.icf",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1gDTy_8Q-jXhLNDqq8H7zQRm_jwqKBqP5/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1gDTy_8Q-jXhLNDqq8H7zQRm_jwqKBqP5",
+              "size": "2.45 KB"
+            },
+            {
+              "name": "pwm.c",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1mMaMwJrBKIHSII3jVZlZhrgkil9Ndo3_/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1mMaMwJrBKIHSII3jVZlZhrgkil9Ndo3_",
+              "size": "434 bytes"
+            },
+            {
+              "name": "sevensegment.c",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1rnA8xm-jgqlIdAxLQS6R_0jwMiwQYXEV/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1rnA8xm-jgqlIdAxLQS6R_0jwMiwQYXEV",
+              "size": "1.84 KB"
+            },
+            {
+              "name": "timer.c",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1FnChKgrcTXlsBYtLpaZY7Ouqr-5djwRa/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1FnChKgrcTXlsBYtLpaZY7Ouqr-5djwRa",
+              "size": "1.01 KB"
+            }
+          ]
+        },
+        {
+          "name": "EEE_ 6 Sem_U18EEI6201 - Embedded System _Lab Manual.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ET8fO25TESYrEyAk99kP4EYqoSX7o92Z/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ET8fO25TESYrEyAk99kP4EYqoSX7o92Z",
+          "size": "331.43 KB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 1",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1Gk9mWs6PrOB2KuX7bjtdaysl3yyYICRU",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1ZmSS5eKc_Sur6Xq7BcsKuwZ4JGYwHU_f",
+      "size": "30.79 MB",
+      "contents": [
+        {
+          "name": "1introduction to embedded system.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1kaLbnIDQnplv28JpWvMb4Mi02I9syK1f/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1kaLbnIDQnplv28JpWvMb4Mi02I9syK1f",
+          "size": "7.89 MB"
+        },
+        {
+          "name": "CAN.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/15W60VtpTvWhqII50HscWGkkKW9yIWZZY/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=15W60VtpTvWhqII50HscWGkkKW9yIWZZY",
+          "size": "2.67 MB"
+        },
+        {
+          "name": "Chap_5L21Emsys3EWireless&MobileSystemsProtocols.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1K1R2Vmu2EEoh1AUf41wk7nk11iQeg63Y/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1K1R2Vmu2EEoh1AUf41wk7nk11iQeg63Y",
+          "size": "2.72 MB"
+        },
+        {
+          "name": "EMBEDDED PRODUCT LIFE CYCLE.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1UMATqsXashhzsXQC2tBK_zdmDjAFea1-/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1UMATqsXashhzsXQC2tBK_zdmDjAFea1-",
+          "size": "480.80 KB"
+        },
+        {
+          "name": "i2c.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1dyZVHy5Z40M_NJS7hM7mBT7vedxrJb-V/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1dyZVHy5Z40M_NJS7hM7mBT7vedxrJb-V",
+          "size": "2.63 MB"
+        },
+        {
+          "name": "IO DEVICES AND CLASSIFICATION.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1M7sDt24iLgWRt74IoWMeeKE7nTbSCryX/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1M7sDt24iLgWRt74IoWMeeKE7nTbSCryX",
+          "size": "265.00 KB"
+        },
+        {
+          "name": "RTOS.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1jLZsIpkFZMCNKRbRAfmriO2YXQaeUnmn/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1jLZsIpkFZMCNKRbRAfmriO2YXQaeUnmn",
+          "size": "28.37 KB"
+        },
+        {
+          "name": "SPI.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/14kHsHLmpHNwZKYb81aSR9HixLQ7XQD7p/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=14kHsHLmpHNwZKYb81aSR9HixLQ7XQD7p",
+          "size": "642.93 KB"
+        },
+        {
+          "name": "UNIT1_COMPLETE.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1d7SzCfvumj-man8Ym9IcntmjoOIlFGgT/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1d7SzCfvumj-man8Ym9IcntmjoOIlFGgT",
+          "size": "13.26 MB"
+        },
+        {
+          "name": "USB.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/18G0cRb3-NSlNnOw-UjgVnJ1zgUjv-Gcb/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=18G0cRb3-NSlNnOw-UjgVnJ1zgUjv-Gcb",
+          "size": "945.60 KB"
+        },
+        {
+          "name": "WIRELSS AND MOBILE COMMUNICATION.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1bnxqWFf-nQqOvccm7xY4l6kc7G09mlG8/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1bnxqWFf-nQqOvccm7xY4l6kc7G09mlG8",
+          "size": "358.94 KB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1kAp7K8ydzpdkUdfnt_-_yI0G2ILv60mq",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1KkIYS_Gltq-Q_v3fY1TsDElKT31QlPBc",
+      "size": "53.99 MB",
+      "contents": [
+        {
+          "name": "ARM.ppt",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1DRUaWRDMCG90BYwaIXmFe7g3e-AA_Xp5/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1DRUaWRDMCG90BYwaIXmFe7g3e-AA_Xp5",
+          "size": "1.09 MB"
+        },
+        {
+          "name": "code optimize1.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/13-cRzWohGDdMBmSasUm2gFYSyUo3IgBo/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=13-cRzWohGDdMBmSasUm2gFYSyUo3IgBo",
+          "size": "348.46 KB"
+        },
+        {
+          "name": "MMU.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1OErS17w93guFr0K0FHYVxV2fHNSkqDpw/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1OErS17w93guFr0K0FHYVxV2fHNSkqDpw",
+          "size": "1.13 MB"
+        },
+        {
+          "name": "UNIT_2_COMPLETE.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1ImosNGfrG2av7L0VotfffywupGXno-0l/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ImosNGfrG2av7L0VotfffywupGXno-0l",
+          "size": "7.38 MB"
+        },
+        {
+          "name": "UNIT_2_SYNC1.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1Wiv7xUXKjNNn1zqpSV-6V-kZ_fZS0quI/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1Wiv7xUXKjNNn1zqpSV-6V-kZ_fZS0quI",
+          "size": "5.17 MB"
+        },
+        {
+          "name": "UNIT_2_SYNC2.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1birBcQNXYtdBz1e-zVMUfuM4eBFrmUv8/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1birBcQNXYtdBz1e-zVMUfuM4eBFrmUv8",
+          "size": "4.88 MB"
+        },
+        {
+          "name": "UNIT_2_SYNC3 ARM Instruction set.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1RrCKKy9-j264iDTqbMbtYqhlgd4ZqWyX/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1RrCKKy9-j264iDTqbMbtYqhlgd4ZqWyX",
+          "size": "8.12 MB"
+        },
+        {
+          "name": "UNIT_2_SYNC4 Thumb Instruction set-1.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1gcs6rOmu7mE2HUfp7vc8UKPFI_9ntV4r/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1gcs6rOmu7mE2HUfp7vc8UKPFI_9ntV4r",
+          "size": "7.31 MB"
+        },
+        {
+          "name": "UNIT_2_SYNC4 Thumb Instruction set.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/12GoUChDNb2KphLrfKbUk9OKMzHoC0urO/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=12GoUChDNb2KphLrfKbUk9OKMzHoC0urO",
+          "size": "9.31 MB"
+        },
+        {
+          "name": "UNIT_2_SYNC5 Instruction scheduling set.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1AjJLgfUWBQ9x1bsVeiPBjibs0d1wqgVy/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1AjJLgfUWBQ9x1bsVeiPBjibs0d1wqgVy",
+          "size": "12.60 MB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1Hz4cdyWVbUyyVzSdnCvnmJCPq9vgv0l8",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1jv9WO21V_urUWw5uZbJpuPiIjVUDSRKl",
+      "size": "34.59 MB",
+      "contents": [
+        {
+          "name": "ADC ARM7 LPC2148.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1C0dTixTg_9wG_Uo1TcF8GrvJB5em3Q6s/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1C0dTixTg_9wG_Uo1TcF8GrvJB5em3Q6s",
+          "size": "202.79 KB"
+        },
+        {
+          "name": "cond instn and loop instn.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1F6jWOhaHSWIoOcqLv4Vmjb4y4klj0Tr6/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1F6jWOhaHSWIoOcqLv4Vmjb4y4klj0Tr6",
+          "size": "1.28 MB"
+        },
+        {
+          "name": "DAC ARM LPC2148.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1Mv74Z3F8RT1F6NjgyXxa0En05ER3sZr6/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1Mv74Z3F8RT1F6NjgyXxa0En05ER3sZr6",
+          "size": "27.23 KB"
+        },
+        {
+          "name": "ES W3 U3 Async3 UART ARMLPC2148.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1kRWRiZjg6hfwO9JMVerToPbDqpGIJi1t/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1kRWRiZjg6hfwO9JMVerToPbDqpGIJi1t",
+          "size": "659.65 KB"
+        },
+        {
+          "name": "ES WEEK3_TEST.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1rM-doKoCdH61KjOdJyCEKFX-OZNxn1oe/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1rM-doKoCdH61KjOdJyCEKFX-OZNxn1oe",
+          "size": "29.85 KB"
+        },
+        {
+          "name": "L7 Chap_5L15Emsys3ECAN-converted.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1R3T2pRPssPjDK-5mRQPd5MDXuZzcAYm9/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1R3T2pRPssPjDK-5mRQPd5MDXuZzcAYm9",
+          "size": "1.06 MB"
+        },
+        {
+          "name": "L8 Chap_5L16Emsys3EUSB-converted.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1O-TOdjQX3My8YUjmTRhle2zIeY9AXLHB/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1O-TOdjQX3My8YUjmTRhle2zIeY9AXLHB",
+          "size": "887.38 KB"
+        },
+        {
+          "name": "PWM  ARM LPC2148.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1zdlpqEejYCMPzomEhXrewVTl-f2EqVeG/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1zdlpqEejYCMPzomEhXrewVTl-f2EqVeG",
+          "size": "524.14 KB"
+        },
+        {
+          "name": "Timer counter ARM7 LPC2148 new.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/12Ae5B4qZSjzrrMYKOlYpj6BhrfmHLEmB/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=12Ae5B4qZSjzrrMYKOlYpj6BhrfmHLEmB",
+          "size": "2.57 MB"
+        },
+        {
+          "name": "UNIT_3_ASYNC1_WDT - Copy.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1_UGf9_juvKnRjwS-QVtvl43PzsrUYVJP/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1_UGf9_juvKnRjwS-QVtvl43PzsrUYVJP",
+          "size": "6.92 MB"
+        },
+        {
+          "name": "UNIT_3_ASYNC2_UART.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1kZHhsHu4BoEC2uBPEmWDCx0l0Lc7kSge/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1kZHhsHu4BoEC2uBPEmWDCx0l0Lc7kSge",
+          "size": "6.80 MB"
+        },
+        {
+          "name": "UNIT_3_SYNC2  timer adc dac.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1yQhvDOPetQY9-pxYqAemn2n4t4d7yZOx/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1yQhvDOPetQY9-pxYqAemn2n4t4d7yZOx",
+          "size": "14.57 MB"
+        },
+        {
+          "name": "Watchdog Timer ARM7 LPC2148 .pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/11lsCGuXE9SogMOW2xqNahZTfgf5k0rTw/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=11lsCGuXE9SogMOW2xqNahZTfgf5k0rTw",
+          "size": "1.02 MB"
+        }
+      ]
+    },
+    {
+      "name": "embedded system .pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1qWvulhaf5tfje2gSVGPJ1hV6_w8lqzSv/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1qWvulhaf5tfje2gSVGPJ1hV6_w8lqzSv",
+      "size": "7.43 MB"
+    },
+    {
+      "name": "T.N.Manimaran - Embedded Systems Notes.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1JI3LdnmCdo88BuO4TroundMVnE_0ZTsb/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1JI3LdnmCdo88BuO4TroundMVnE_0ZTsb",
+      "size": "8.94 MB"
+    }
+  ]
+}

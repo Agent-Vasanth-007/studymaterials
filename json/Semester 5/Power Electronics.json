@@ -1,0 +1,137 @@
+{
+  "name": "Power Electronics",
+  "type": "folder",
+  "link": "https://drive.google.com/drive/folders/1M35KXWUx-JO0idQn14boBcOyjd9sh5GN",
+  "downloadLink": "https://drive.google.com/uc?export=download&id=1mbDq2BGHGo5BFnt4EtzlpRJDETq-RO-m",
+  "size": "142.04 MB",
+  "contents": [
+    {
+      "name": "Matlab",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1V8gBGMVJFKPent0b7YtqLgXN7lBk4QhT",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=15PT8Xx1DDgIkzmpETHe3OHIGTZbbl9-p",
+      "size": "167.03 KB",
+      "contents": [
+        {
+          "name": "buck.slx",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1fq0JCZrK8GJwNgIkY7N2VauqqdbZNi0i/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1fq0JCZrK8GJwNgIkY7N2VauqqdbZNi0i",
+          "size": "35.82 KB"
+        },
+        {
+          "name": "buck.slx.autosave",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1QQdMVwdpY4TDvM2WRqNwUEWunXGCIzhr/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1QQdMVwdpY4TDvM2WRqNwUEWunXGCIzhr",
+          "size": "29.48 KB"
+        },
+        {
+          "name": "full_wave_bridge_rectifier.slx",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1Y2sqLlK4sDSOTJ8WO6XO0TLXc3yGNIMr/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1Y2sqLlK4sDSOTJ8WO6XO0TLXc3yGNIMr",
+          "size": "38.34 KB"
+        },
+        {
+          "name": "full_wave_center_tapped_rectifier.slx",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1s-wPvrhR6NsclxSECqqufzT8O1du_lO_/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1s-wPvrhR6NsclxSECqqufzT8O1du_lO_",
+          "size": "40.33 KB"
+        },
+        {
+          "name": "half_wave_rectifier.slx",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1kTNGtH82Bzn24gjHqx-D6y5mmRor6dl2/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1kTNGtH82Bzn24gjHqx-D6y5mmRor6dl2",
+          "size": "32.35 KB"
+        }
+      ]
+    },
+    {
+      "name": "[U18EET5001] PE CH_3_Isolated Converters.pptx",
+      "type": "file",
+      "link": "https://docs.google.com/presentation/d/1IZNkqe-ZnQGf94L4Do3MZgs7s91j5PeI/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1IZNkqe-ZnQGf94L4Do3MZgs7s91j5PeI",
+      "size": "8.44 MB"
+    },
+    {
+      "name": "Copy of Bimbhra power electronics- By EasyEngineering.net.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1q6tX3jCaeu_1mnZEsPwlGShqhWad0oCl/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1q6tX3jCaeu_1mnZEsPwlGShqhWad0oCl",
+      "size": "44.39 MB"
+    },
+    {
+      "name": "Document 63.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1MzEChpA_oBEAqNB0jfw4975MQVDIIbO1/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1MzEChpA_oBEAqNB0jfw4975MQVDIIbO1",
+      "size": "33.26 MB"
+    },
+    {
+      "name": "Inverter Applications.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1CyEGbq2tf8u0Y2mp0-luves743DqSRyl/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1CyEGbq2tf8u0Y2mp0-luves743DqSRyl",
+      "size": "1.72 MB"
+    },
+    {
+      "name": "Operation of On Load Transformer Tap  Changers  .pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1FaQBTzAOCdb5hWrUZHuQ7x8Bipe9Km9Y/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1FaQBTzAOCdb5hWrUZHuQ7x8Bipe9Km9Y",
+      "size": "1.00 MB"
+    },
+    {
+      "name": "Power Electronics Notes 1.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/18m1rc7Nu8ucNW1hq3Qdmcgh588fZ_LTE/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=18m1rc7Nu8ucNW1hq3Qdmcgh588fZ_LTE",
+      "size": "18.60 MB"
+    },
+    {
+      "name": "Power Electronics Notes 2.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1Dn0Rb4b1zBWZs99WBk_c2VOBie4vaiv1/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1Dn0Rb4b1zBWZs99WBk_c2VOBie4vaiv1",
+      "size": "4.92 MB"
+    },
+    {
+      "name": "Power Electronics Notes 3.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1z2mo7r4azmEDRcY2MHY8to43KgIcAQJv/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1z2mo7r4azmEDRcY2MHY8to43KgIcAQJv",
+      "size": "16.74 MB"
+    },
+    {
+      "name": "Power Electronics Notes 4.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1tcuxw1x4HHbM3mWyX6hJp0U9Mf6cKdv-/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1tcuxw1x4HHbM3mWyX6hJp0U9Mf6cKdv-",
+      "size": "5.50 MB"
+    },
+    {
+      "name": "Power Electronics Notes 5.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1cH1LBG191xt5ppCuvzTyBQtgC9FW1sLC/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1cH1LBG191xt5ppCuvzTyBQtgC9FW1sLC",
+      "size": "10.39 MB"
+    },
+    {
+      "name": "U18EET5001- W1S4- PPT- Power Electronics- Snubber Circuits.pptx",
+      "type": "file",
+      "link": "https://docs.google.com/presentation/d/1VmKcbwrqVA0mXvYhsW5G-fI3HThhzqXC/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1VmKcbwrqVA0mXvYhsW5G-fI3HThhzqXC",
+      "size": "6.61 MB"
+    },
+    {
+      "name": "WhatsApp Image 2023-11-23 at 15.17.42_52a5662a.jpg",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1Kz68yfEGMTLP6cA_esl0pzA5hrzc46nX/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1Kz68yfEGMTLP6cA_esl0pzA5hrzc46nX",
+      "size": "164.52 KB"
+    }
+  ]
+}

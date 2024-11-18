@@ -1,0 +1,157 @@
+{
+  "name": "Digital Electronics",
+  "type": "folder",
+  "link": "https://drive.google.com/drive/folders/15bFQCxnRMdQYs5wCw0kPmPiyqt9tYCzU",
+  "downloadLink": "https://drive.google.com/uc?export=download&id=1zf3V3zMzDjJLeGEmHnkifcc1Jue52vtZ",
+  "size": "61.44 MB",
+  "contents": [
+    {
+      "name": "Unit 2",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1U6GigPUUp_z0HAnGHQsnyPWLbnvgzinw",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1fSj-gyz0KvWJ7AIO8XL8jB3Wc84QS0Jx",
+      "size": "2.43 MB",
+      "contents": [
+        {
+          "name": "MUX DECODER SR Counters.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ddODX_l7iK6zCBdXAqvnKHFAt10E6cXH/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ddODX_l7iK6zCBdXAqvnKHFAt10E6cXH",
+          "size": "2.15 MB"
+        },
+        {
+          "name": "Parity generator and checker.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1XMYn7pm1dtGmZ87XpSWvMS9_QTEODDb7/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1XMYn7pm1dtGmZ87XpSWvMS9_QTEODDb7",
+          "size": "718.55 KB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/147R4GHC2AasRAXaeCzxEupHQNOmABAKJ",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1ZTr59wgzwm8sFXnVKempUf0JlVTxVAvN",
+      "size": "1.25 MB",
+      "contents": [
+        {
+          "name": "shift registers.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1tS3lcSrI1utvOauz5RCzfhRqyOYDsaPn/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1tS3lcSrI1utvOauz5RCzfhRqyOYDsaPn",
+          "size": "1.69 MB"
+        },
+        {
+          "name": "Shift registers.ppt",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1-o7yCiUWYzlnXyoUBQX6DMM7J-CWm8MD/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1-o7yCiUWYzlnXyoUBQX6DMM7J-CWm8MD",
+          "size": "709.50 KB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1aFXW5IqpI9WpOp8VwuzGrDQCJGDx2p3e",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=17rQRVaOb7RxJTpjPFfoYWSdrjqaAQIJa",
+      "size": "15.57 MB",
+      "contents": [
+        {
+          "name": "static and dynamic hazards.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1-zEZcRd1oxXQ6aVUv5TibsaHtqNEkjeM/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1-zEZcRd1oxXQ6aVUv5TibsaHtqNEkjeM",
+          "size": "12.90 MB"
+        },
+        {
+          "name": "unit 4 session 1Classification of Sequential Circuits Moore and Mealy Model.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1OzJNnPe45EY6CBr2ykrE6e1q8lCy5jCf/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1OzJNnPe45EY6CBr2ykrE6e1q8lCy5jCf",
+          "size": "3.10 MB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1Pu_9ejMDQdkFfLnVIjADscbIRFeba16d",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=13R-RoptwE-XyqiDDOzV2m27U18WKG4M8",
+      "size": "8.49 MB",
+      "contents": [
+        {
+          "name": "Memories.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1hZj2xzuRD8OlvE8RBW_as8IfIHqdVM0c/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1hZj2xzuRD8OlvE8RBW_as8IfIHqdVM0c",
+          "size": "75.28 KB"
+        },
+        {
+          "name": "PPT Semiconductor memory.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ORA1DoNFes_Qd-xRd4fKszkk7lxQ9mBZ/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ORA1DoNFes_Qd-xRd4fKszkk7lxQ9mBZ",
+          "size": "1.34 MB"
+        },
+        {
+          "name": "unit 5  session 1 Memories.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1DRQbKz2s8u_d2PCcmf2uv4wENdAsDSOG/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1DRQbKz2s8u_d2PCcmf2uv4wENdAsDSOG",
+          "size": "4.47 MB"
+        },
+        {
+          "name": "UNIT 5 session 3 digitallogic families.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1rZwrn40Gc_W3nUoCKqBArjPP4nkyM20i/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1rZwrn40Gc_W3nUoCKqBArjPP4nkyM20i",
+          "size": "3.09 MB"
+        }
+      ]
+    },
+    {
+      "name": "DE notes-1.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1zL8mqn_OEtQDTqua2SsfhvILCHTs-ksV/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1zL8mqn_OEtQDTqua2SsfhvILCHTs-ksV",
+      "size": "10.29 MB"
+    },
+    {
+      "name": "Digital_Electronics_Morrismano book.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1UA3uLA9WnBOYFfexk7YwYDnh6S1xT8zd/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1UA3uLA9WnBOYFfexk7YwYDnh6S1xT8zd",
+      "size": "3.71 MB"
+    },
+    {
+      "name": "Introduction PPT.pptx",
+      "type": "file",
+      "link": "https://docs.google.com/presentation/d/1c4f2e4di_189QbjAUHS4ItwAlZhqjaXK/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1c4f2e4di_189QbjAUHS4ItwAlZhqjaXK",
+      "size": "1.20 MB"
+    },
+    {
+      "name": "T.N.MANIMARAN - DIGITAL ELECTRONICS Notes.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1CaiVR3cy5FJi3X-mqKBaJ2GR8VxpuFRN/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1CaiVR3cy5FJi3X-mqKBaJ2GR8VxpuFRN",
+      "size": "18.99 MB"
+    },
+    {
+      "name": "U18EEI4203 DESyllabus.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1X8sYmJgjTOf_NN_3GZjNFgb9pIRPGQJ5/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1X8sYmJgjTOf_NN_3GZjNFgb9pIRPGQJ5",
+      "size": "126.62 KB"
+    },
+    {
+      "name": "U18EEI4203L DE Lab - Manual .pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1G-l1BE1Urk1UvBzqc8p-ERGguMdMznOl/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1G-l1BE1Urk1UvBzqc8p-ERGguMdMznOl",
+      "size": "1.91 MB"
+    }
+  ]
+}

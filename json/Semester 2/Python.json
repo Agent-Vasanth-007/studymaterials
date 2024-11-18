@@ -1,0 +1,142 @@
+{
+  "name": "Python",
+  "type": "folder",
+  "link": "https://drive.google.com/drive/folders/19LQzKARrf2w9L6kR-6HFNIlxRuYWBLsa",
+  "downloadLink": "https://drive.google.com/uc?export=download&id=1b1ApOdMZBtngMqjFeRqA2IoPFEeTtW5H",
+  "size": "6.54 KB",
+  "contents": [
+    {
+      "name": "cases.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1AlUTeQnLi710fvobD5PtUC0unUt3sXK9/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1AlUTeQnLi710fvobD5PtUC0unUt3sXK9",
+      "size": "575 bytes"
+    },
+    {
+      "name": "Checkdup.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1D16elaDWXDqEgfVTuYClE7JeKW4aQbIS/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1D16elaDWXDqEgfVTuYClE7JeKW4aQbIS",
+      "size": "249 bytes"
+    },
+    {
+      "name": "count.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1nqdQQHjTJS4VzZKqwBne5NqQXkfdWoA9/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1nqdQQHjTJS4VzZKqwBne5NqQXkfdWoA9",
+      "size": "450 bytes"
+    },
+    {
+      "name": "countlettersdigitsspecial.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1af-ch1U2lDVH8JZRhjyjKNWOedn-4zZV/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1af-ch1U2lDVH8JZRhjyjKNWOedn-4zZV",
+      "size": "451 bytes"
+    },
+    {
+      "name": "countupper.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1d30wqdEEFmyjM6mwpUN0-B1zoYet3O57/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1d30wqdEEFmyjM6mwpUN0-B1zoYet3O57",
+      "size": "275 bytes"
+    },
+    {
+      "name": "countvowels.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1x4oZDcxMW5RGOP5pRqUfgjo3kQIDpyTH/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1x4oZDcxMW5RGOP5pRqUfgjo3kQIDpyTH",
+      "size": "265 bytes"
+    },
+    {
+      "name": "countwords.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1Cteyjn6lFlzu2D8c0xg1OaRpO9gxZdv2/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1Cteyjn6lFlzu2D8c0xg1OaRpO9gxZdv2",
+      "size": "327 bytes"
+    },
+    {
+      "name": "double.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1PemwtCoabL3GH4oZUOBSr4xj1Mo7XKAT/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1PemwtCoabL3GH4oZUOBSr4xj1Mo7XKAT",
+      "size": "249 bytes"
+    },
+    {
+      "name": "explitsplit.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1K0pWJjmKJpTEZf9BnP0f62NtI3cmHX-o/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1K0pWJjmKJpTEZf9BnP0f62NtI3cmHX-o",
+      "size": "366 bytes"
+    },
+    {
+      "name": "fingindex.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1EKEdPBk9o3sU04fgN-hZIY4JFmwrWhNi/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1EKEdPBk9o3sU04fgN-hZIY4JFmwrWhNi",
+      "size": "341 bytes"
+    },
+    {
+      "name": "fvowel-1.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/19MADkn2e-sfMvqC_9lebCEyVEaDe6jYe/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=19MADkn2e-sfMvqC_9lebCEyVEaDe6jYe",
+      "size": "323 bytes"
+    },
+    {
+      "name": "fvowel.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1Jeos3V9JFRPgEctd0kMYohXupJClLy6c/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1Jeos3V9JFRPgEctd0kMYohXupJClLy6c",
+      "size": "323 bytes"
+    },
+    {
+      "name": "palindrome.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1b_yNP1bWnBOFAkNgj-Dxx89urZ74KeOv/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1b_yNP1bWnBOFAkNgj-Dxx89urZ74KeOv",
+      "size": "347 bytes"
+    },
+    {
+      "name": "replace.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1uoBnAgXkII_w619c9b-P5dMQu98YKb4o/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1uoBnAgXkII_w619c9b-P5dMQu98YKb4o",
+      "size": "431 bytes"
+    },
+    {
+      "name": "reversestring.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1IQrBv0xFxD9ahaC8zhu48O0iuxScw7hL/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1IQrBv0xFxD9ahaC8zhu48O0iuxScw7hL",
+      "size": "234 bytes"
+    },
+    {
+      "name": "Sortlist.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1BVopxvDHCG__RAELSSeWENwxA0JfP7oq/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1BVopxvDHCG__RAELSSeWENwxA0JfP7oq",
+      "size": "227 bytes"
+    },
+    {
+      "name": "split.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1TPVf-jf3703pZoTLMf8XFwX6X3uYfczD/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1TPVf-jf3703pZoTLMf8XFwX6X3uYfczD",
+      "size": "312 bytes"
+    },
+    {
+      "name": "strip.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1w7SZKYIH2JeK0DDOnp_zd5WIlLkEEQ3j/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1w7SZKYIH2JeK0DDOnp_zd5WIlLkEEQ3j",
+      "size": "610 bytes"
+    },
+    {
+      "name": "username.py",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1ApcFrFvqXDNDhyhn_JFEkme26hQbFoat/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1ApcFrFvqXDNDhyhn_JFEkme26hQbFoat",
+      "size": "406 bytes"
+    }
+  ]
+}

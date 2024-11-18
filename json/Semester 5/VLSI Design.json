@@ -1,0 +1,590 @@
+{
+  "name": "VLSI Design",
+  "type": "folder",
+  "link": "https://drive.google.com/drive/folders/1tVCJnw_Gv-bp1ccasP0dcMHOI3BDSjK8",
+  "downloadLink": "https://drive.google.com/uc?export=download&id=18TjdzFDcaMwwyL_JO_Z5ORThiZnbHd9a",
+  "size": "479.93 MB",
+  "contents": [
+    {
+      "name": "text books",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/157Xt3_37iX0N7L-r5bnSFv7aLsWYTXaq",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=10_AadeFIk1NlEQWzEYVZ1jOrbqjnsJRA",
+      "size": "223.45 MB",
+      "contents": [
+        {
+          "name": "reference",
+          "type": "folder",
+          "link": "https://drive.google.com/drive/folders/1FOGmHdcAYSk69zfk0rZHypfjjGAQnUks",
+          "downloadLink": null,
+          "size": null,
+          "contents": [
+            {
+              "name": "CMOS-VLSI-design by weste harris.pdf",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1pq6aR6tIYdcReiT4giTNkEtGvLU1JO7F/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1pq6aR6tIYdcReiT4giTNkEtGvLU1JO7F",
+              "size": "13.83 MB"
+            },
+            {
+              "name": "digital-integrated-circuits-analysis-and-designtqw_darksiderg.pdf",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1kN0moKzk95xCUZKs5THYT-HXgizvD35u/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1kN0moKzk95xCUZKs5THYT-HXgizvD35u",
+              "size": "10.91 MB"
+            },
+            {
+              "name": "Principles of CMOS VLSI Design - A Systems Perspective (Neil Weste & Kamran Eshragian).pdf",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1Bho68kznTSsk5_pNjbfTH3PaKSXMMzbj/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1Bho68kznTSsk5_pNjbfTH3PaKSXMMzbj",
+              "size": "36.40 MB"
+            },
+            {
+              "name": "Vlsi Design by Pucknell kamran.pdf",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1LqkU48pxJbojy87nqyFCVXE8g2lpSvQ8/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1LqkU48pxJbojy87nqyFCVXE8g2lpSvQ8",
+              "size": "169.56 MB"
+            }
+          ]
+        },
+        {
+          "name": "Addison.Wesley.Application.Specific.Integrated.Circuits.Oct.2008.ISBN.0321602757.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ylvgvvb_vURKVlpmPMETvjI0xLClO6AH/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ylvgvvb_vURKVlpmPMETvjI0xLClO6AH",
+          "size": "6.98 MB"
+        },
+        {
+          "name": "digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1LkpsZrE2BVbnfSRMGFClc-z3D0do-Dwq/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1LkpsZrE2BVbnfSRMGFClc-z3D0do-Dwq",
+          "size": "10.80 MB"
+        }
+      ]
+    },
+    {
+      "name": "Unit1",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1l7Y4ghRIil-IQDy_okcRiF59eg3dgbCR",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1dUa8svwUHj9FsOJmqamcRZA2RB8Qo6WX",
+      "size": "58.19 MB",
+      "contents": [
+        {
+          "name": "L1.1a order1b I ds eqn.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ChJs3xD96_JwlLFA6nloQN-Qi2a8KRK_/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ChJs3xD96_JwlLFA6nloQN-Qi2a8KRK_",
+          "size": "576.94 KB"
+        },
+        {
+          "name": "L1.2 process param variation.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1BrKgERjno4IGs9nYYPz_Oq64ODLfYBnt/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1BrKgERjno4IGs9nYYPz_Oq64ODLfYBnt",
+          "size": "446.72 KB"
+        },
+        {
+          "name": "L1.2a order1a vlsi unit2 V th.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1T5Ilzt6SGqCz4wbCLDPStIqG40WOUfbb/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1T5Ilzt6SGqCz4wbCLDPStIqG40WOUfbb",
+          "size": "809.02 KB"
+        },
+        {
+          "name": "L1.2b order5 second order effects.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/116Y7dXn3_pjkUJJVdW1nbsl11UMNkOiQ/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=116Y7dXn3_pjkUJJVdW1nbsl11UMNkOiQ",
+          "size": "1.38 MB"
+        },
+        {
+          "name": "L1.4 mos device modelling.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/12sLpvWuYDA5_0Pbfhz6DVcWbGfotIUuM/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=12sLpvWuYDA5_0Pbfhz6DVcWbGfotIUuM",
+          "size": "278.87 KB"
+        },
+        {
+          "name": "L1.9a layout.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1wCl3vaZ00lNc2nN4hG5oka-CFARfbgNZ/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1wCl3vaZ00lNc2nN4hG5oka-CFARfbgNZ",
+          "size": "296.34 KB"
+        },
+        {
+          "name": "U1 sync1.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/18KyJ876xhr7BkQrkm5R1DHXaQY6xDGD5/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=18KyJ876xhr7BkQrkm5R1DHXaQY6xDGD5",
+          "size": "8.19 MB"
+        },
+        {
+          "name": "U1 sync2.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/161a8HhqCAJZwkkuO1cDQZAVpszhfb_QW/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=161a8HhqCAJZwkkuO1cDQZAVpszhfb_QW",
+          "size": "14.88 MB"
+        },
+        {
+          "name": "U1 sync3.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1wRTsDUrXivrUxl1rN7bDLy9_Qz1fpQqn/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1wRTsDUrXivrUxl1rN7bDLy9_Qz1fpQqn",
+          "size": "9.31 MB"
+        },
+        {
+          "name": "U1 sync4 stic layot.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1PmkJ_9sDMMBvDWd76X9YZ0gkkWP32Fbf/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1PmkJ_9sDMMBvDWd76X9YZ0gkkWP32Fbf",
+          "size": "7.81 MB"
+        },
+        {
+          "name": "U1 sync5 mos model.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/12J_yHfORfw20R1ULCNR18x7y8LLKxrv2/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=12J_yHfORfw20R1ULCNR18x7y8LLKxrv2",
+          "size": "605.31 KB"
+        },
+        {
+          "name": "U1 sync5a model.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1KU_5p7ls_V5_oJfeEXbdwTvBQ8_uPi3o/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1KU_5p7ls_V5_oJfeEXbdwTvBQ8_uPi3o",
+          "size": "8.57 MB"
+        },
+        {
+          "name": "U1 sync6 scaling.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1fqd0tS2NILkeejqAKgAEvqfRJNALD1ix/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1fqd0tS2NILkeejqAKgAEvqfRJNALD1ix",
+          "size": "8.93 MB"
+        },
+        {
+          "name": "U1 sync7 delay.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1nP92d6HARtxR1GZPhpcoytt7zutYB5Q4/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1nP92d6HARtxR1GZPhpcoytt7zutYB5Q4",
+          "size": "179.63 KB"
+        }
+      ]
+    },
+    {
+      "name": "Unit2",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/166T2WGjRUNChTrleRjRlKuibjwGzCL2E",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1M1peC2lAJW8thpw23nocCP9J62z-8yRg",
+      "size": "45.17 MB",
+      "contents": [
+        {
+          "name": "elmores constant.png",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1XR5eW7G99dm9V5p4_s0E08JDotPEdN-m/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1XR5eW7G99dm9V5p4_s0E08JDotPEdN-m",
+          "size": "85.21 KB"
+        },
+        {
+          "name": "L2.4 order 1a CMOS logic design.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1sNJcdsiz6MpyArf4AMym3Wy_Wiz1rJ59/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1sNJcdsiz6MpyArf4AMym3Wy_Wiz1rJ59",
+          "size": "2.56 MB"
+        },
+        {
+          "name": "L2.7 clocked and domino logic1.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1VbNqPc071j0rRD4JuDAC4U9fJ_akSmKj/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1VbNqPc071j0rRD4JuDAC4U9fJ_akSmKj",
+          "size": "1.48 MB"
+        },
+        {
+          "name": "L2.7a clocked and domino logic2.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1VpGUZoR1855kymY9TCziSL22vGYzhsHb/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1VpGUZoR1855kymY9TCziSL22vGYzhsHb",
+          "size": "3.10 MB"
+        },
+        {
+          "name": "L2.8 to 2.9  l11_power mit ocw pages 5 to 20.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1wVKDBthg5ZhjFK-7bAB1yOVNa7nZLUqY/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1wVKDBthg5ZhjFK-7bAB1yOVNa7nZLUqY",
+          "size": "328.46 KB"
+        },
+        {
+          "name": "low power design principles.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/12Ur3YxUo-6zUa2D_wWoSFHWboSiWYAwp/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=12Ur3YxUo-6zUa2D_wWoSFHWboSiWYAwp",
+          "size": "114.89 KB"
+        },
+        {
+          "name": "notes week2 sync2.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1qU65K6roEbXMeCroYvVlmw2uajKeiPCS/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1qU65K6roEbXMeCroYvVlmw2uajKeiPCS",
+          "size": "1.48 MB"
+        },
+        {
+          "name": "notes week2 sync2a.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1Fo2yFr6i9YYbIU3MY-bef4ZuZBU_lXSx/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1Fo2yFr6i9YYbIU3MY-bef4ZuZBU_lXSx",
+          "size": "3.10 MB"
+        },
+        {
+          "name": "notes week2 sync4.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1-q47tt6p9lAAtuexfV4iGzLb4i5Zysee/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1-q47tt6p9lAAtuexfV4iGzLb4i5Zysee",
+          "size": "1.91 MB"
+        },
+        {
+          "name": "power dissipation types in CMOS.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1LxuNFquzt8m67-SuR5ccWemtuHNQM_qV/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1LxuNFquzt8m67-SuR5ccWemtuHNQM_qV",
+          "size": "369.85 KB"
+        },
+        {
+          "name": "Pseudo NMOS example.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1jsiUrle71G776BMrz4ze-SAU5GjFvJ2L/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1jsiUrle71G776BMrz4ze-SAU5GjFvJ2L",
+          "size": "96.90 KB"
+        },
+        {
+          "name": "Unit3-PN basics of digital cmos design.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1aoI_3o3KXhkg_SIJrcjFacY01Hn8tr7n/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1aoI_3o3KXhkg_SIJrcjFacY01Hn8tr7n",
+          "size": "2.23 MB"
+        },
+        {
+          "name": "vlsi cmos prob solution.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1vDRDDRJW59rLhRF51ORD5UAr_ShDGrxT/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1vDRDDRJW59rLhRF51ORD5UAr_ShDGrxT",
+          "size": "193.93 KB"
+        },
+        {
+          "name": "VLSI Week2 Async1 2 3 CMOS power.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1Euqxqju8cbJ6Hyo5vS3TOsJjD_RdT_4K/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1Euqxqju8cbJ6Hyo5vS3TOsJjD_RdT_4K",
+          "size": "7.60 MB"
+        },
+        {
+          "name": "VLSI Week2 sync1 comb ckt design.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1jBHY6lFoXtk35s12PHqjad_StOEmHu2A/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1jBHY6lFoXtk35s12PHqjad_StOEmHu2A",
+          "size": "7.32 MB"
+        },
+        {
+          "name": "VLSI Week2 sync2 & 3 static cmos design & problems.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1koQpQ-9Vd_szVy2dHjGC8XhP4tMbErgf/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1koQpQ-9Vd_szVy2dHjGC8XhP4tMbErgf",
+          "size": "9.58 MB"
+        },
+        {
+          "name": "VLSI Week2 sync4 dyn.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1ma6FYXHBDgZfUSUCZg7ilz7pl5UN53-u/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ma6FYXHBDgZfUSUCZg7ilz7pl5UN53-u",
+          "size": "8.96 MB"
+        }
+      ]
+    },
+    {
+      "name": "Unit3",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1oADzNG9PGb0KiOCNgaZfsIyu01t8qLWz",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1FkHB1uxdpWQE9dIXPRJMyIY3s6F9DOIt",
+      "size": "67.01 MB",
+      "contents": [
+        {
+          "name": "Clock skew vs jitter.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1wJPApjafCmlQi4CUggbKSUuwumW4YxVw/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1wJPApjafCmlQi4CUggbKSUuwumW4YxVw",
+          "size": "53.87 KB"
+        },
+        {
+          "name": "L3.1a dynamic register.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1YfF6TQgOH6Ftiz4xZHwmEQb2iebsRHjd/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1YfF6TQgOH6Ftiz4xZHwmEQb2iebsRHjd",
+          "size": "2.98 MB"
+        },
+        {
+          "name": "L3.1b seq cmos logic ckts.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1rIJ-MimDOBhOUYYqx679Z-MS266LiXeX/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1rIJ-MimDOBhOUYYqx679Z-MS266LiXeX",
+          "size": "952.34 KB"
+        },
+        {
+          "name": "L3.4 memory arch from mano.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1WDjSlmW4_dAAjs7VgiePUAnkJiGawUNy/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1WDjSlmW4_dAAjs7VgiePUAnkJiGawUNy",
+          "size": "4.85 MB"
+        },
+        {
+          "name": "L3.5 pipe.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/13svjWwwZ_5HM9VvNgytUXWxlvHjKdH0X/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=13svjWwwZ_5HM9VvNgytUXWxlvHjKdH0X",
+          "size": "809.01 KB"
+        },
+        {
+          "name": "pipe.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/10bNzCeQCq9kAEv3w46xEa1xZVnZ2Tn-b/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=10bNzCeQCq9kAEv3w46xEa1xZVnZ2Tn-b",
+          "size": "809.01 KB"
+        },
+        {
+          "name": "static and dynamic reg from rabaey.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1s86NMN6emBpbAEFnS49Wn_Ro52B5y25A/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1s86NMN6emBpbAEFnS49Wn_Ro52B5y25A",
+          "size": "1.90 MB"
+        },
+        {
+          "name": "timing sequence sync async ckts.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1LlbIG14XTZQSV7E92Nnl-tdT7KBdpZnk/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1LlbIG14XTZQSV7E92Nnl-tdT7KBdpZnk",
+          "size": "1.01 MB"
+        },
+        {
+          "name": "VLSI Week3 Async1  pipeline .pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1ZxijITsk67WrY2f1FifdcCiGqoV2QHvU/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ZxijITsk67WrY2f1FifdcCiGqoV2QHvU",
+          "size": "7.05 MB"
+        },
+        {
+          "name": "VLSI Week3 Async2 3  timing.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1B3smv6pg6FW96GQZgC3wGLMVFdwrVPW1/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1B3smv6pg6FW96GQZgC3wGLMVFdwrVPW1",
+          "size": "7.02 MB"
+        },
+        {
+          "name": "VLSI Week3 sync1 static and dynamic latch-reg.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1NbHqXb9fZLcehEAU3KRhn3EErt96lQQl/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1NbHqXb9fZLcehEAU3KRhn3EErt96lQQl",
+          "size": "7.49 MB"
+        },
+        {
+          "name": "VLSI Week3 sync2 dynamic latch and registers.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1HoAgRE1pbs1ZlROKZ--b1N-3yabTpFxo/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1HoAgRE1pbs1ZlROKZ--b1N-3yabTpFxo",
+          "size": "7.53 MB"
+        },
+        {
+          "name": "VLSI Week3 sync3 memory design .pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1VJkO9fPv6qKpLZ5n4CdXVNCsy-6xk7Ql/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1VJkO9fPv6qKpLZ5n4CdXVNCsy-6xk7Ql",
+          "size": "7.08 MB"
+        },
+        {
+          "name": "VLSI Week3 sync4 memory cells .pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1bjzPrigtOHlZZHdcTW3ps4sex62K8X5V/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1bjzPrigtOHlZZHdcTW3ps4sex62K8X5V",
+          "size": "7.13 MB"
+        },
+        {
+          "name": "VLSI Week3 sync4 memory cells1 - Copy.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/14eoU3-jnT84ty3cqwYvrlKJYQU3lf5uP/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=14eoU3-jnT84ty3cqwYvrlKJYQU3lf5uP",
+          "size": "6.82 MB"
+        },
+        {
+          "name": "VLSI Week3 sync4 memory cells1.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1VN_G0rqmCSDCVddM5lGSQIo9Eo38quNK/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1VN_G0rqmCSDCVddM5lGSQIo9Eo38quNK",
+          "size": "6.82 MB"
+        }
+      ]
+    },
+    {
+      "name": "Unit4",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1O-CKkaBwke3zDgRqbnL-naJgLsUIvyvG",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=172PlB7bx-qrjTqA5Snp0Hs9k-BI86cGY",
+      "size": "51.53 MB",
+      "contents": [
+        {
+          "name": "accumulator and FPGA.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1Cb2ipK-fAiXD47unFdO8wGQSU6Z-EFkE/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1Cb2ipK-fAiXD47unFdO8wGQSU6Z-EFkE",
+          "size": "260.14 KB"
+        },
+        {
+          "name": "barrel shifter.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ZjhzPY1wvY2UXG53njAwAPWBD5_12J_r/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ZjhzPY1wvY2UXG53njAwAPWBD5_12J_r",
+          "size": "3.19 MB"
+        },
+        {
+          "name": "divider illustration.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1CKD2riTrCeQf9zeoUO7MYl8g5pzpJgeV/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1CKD2riTrCeQf9zeoUO7MYl8g5pzpJgeV",
+          "size": "192.36 KB"
+        },
+        {
+          "name": "divider logic with theory.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1OY4v_rf6CsJ5NAmtDC9LcfPaoQ2n6gPn/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1OY4v_rf6CsJ5NAmtDC9LcfPaoQ2n6gPn",
+          "size": "1.84 MB"
+        },
+        {
+          "name": "divider logic.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1eIZlKep2yBbma9UBcDMzJUrXQ7OzjpYN/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1eIZlKep2yBbma9UBcDMzJUrXQ7OzjpYN",
+          "size": "98.21 KB"
+        },
+        {
+          "name": "High speed adders with video link.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1hZvbrUCVHZ-Uvat3lZKPRLlplUpRFneg/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1hZvbrUCVHZ-Uvat3lZKPRLlplUpRFneg",
+          "size": "203.99 KB"
+        },
+        {
+          "name": "L4a 2c array multi.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1qOg8Oqc1baKBhCHSejPHeLVn0PYFuD3j/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1qOg8Oqc1baKBhCHSejPHeLVn0PYFuD3j",
+          "size": "251.00 KB"
+        },
+        {
+          "name": "L4b VLSI Unit 4 dynamic register.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1NSJDTSn61dhKWo10ZZMFOhdH0ytBFLZq/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1NSJDTSn61dhKWo10ZZMFOhdH0ytBFLZq",
+          "size": "2.98 MB"
+        },
+        {
+          "name": "unit4 CLA Adder cmos design.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1VWaIIqiFbRr8V0Nl107MuDBoOOfVJsLD/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1VWaIIqiFbRr8V0Nl107MuDBoOOfVJsLD",
+          "size": "905.66 KB"
+        },
+        {
+          "name": "VLSI Week4 Async1 3 high speed adders  and area vs speed trade off.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1rB1gEWRbNQdzXg_8GC0lFPVIRxLEW8fV/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1rB1gEWRbNQdzXg_8GC0lFPVIRxLEW8fV",
+          "size": "6.98 MB"
+        },
+        {
+          "name": "VLSI Week4 Async2 divider.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1tiM4agWc8HiZBlP5xBsY5tsEdV8GWh8c/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1tiM4agWc8HiZBlP5xBsY5tsEdV8GWh8c",
+          "size": "6.97 MB"
+        },
+        {
+          "name": "VLSI Week4 sync1 ripple carry adder.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1csIMVagiVSZWdvR0Fqxp-UjD3Pj4m_RM/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1csIMVagiVSZWdvR0Fqxp-UjD3Pj4m_RM",
+          "size": "6.96 MB"
+        },
+        {
+          "name": "VLSI Week4 sync2 carry look ahead adder.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1Yq3Wl-ZUL9808HuePOFWIL1dH_ULCq92/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1Yq3Wl-ZUL9808HuePOFWIL1dH_ULCq92",
+          "size": "8.60 MB"
+        },
+        {
+          "name": "VLSI Week4 sync3 array multiplier.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1zdV0HhaDxsISu3ODAZWe73pbAq9KCVCJ/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1zdV0HhaDxsISu3ODAZWe73pbAq9KCVCJ",
+          "size": "7.39 MB"
+        },
+        {
+          "name": "VLSI Week4 sync4 barrel shifter.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1c1bmZn-KKnQOc-nOyTclW52Ukv8hwxjZ/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1c1bmZn-KKnQOc-nOyTclW52Ukv8hwxjZ",
+          "size": "7.13 MB"
+        }
+      ]
+    },
+    {
+      "name": "Unit5",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1qYVVrYxuVW8meE00nDlpuTE6bEQqVFWk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=16vNPYlRYrUss0RJ1ydx0G1iW2MJfZhva",
+      "size": "34.57 MB",
+      "contents": [
+        {
+          "name": "06-VLSI-design-styles.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1k3bOjfEsR4kZTWaE0zyLETigJwMq9VOt/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1k3bOjfEsR4kZTWaE0zyLETigJwMq9VOt",
+          "size": "1.28 MB"
+        },
+        {
+          "name": "L5a  Xilinx XC4000 FPGA case study.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/10thV0w1udD-_QOnBIbxMoKewxMw4Ztae/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=10thV0w1udD-_QOnBIbxMoKewxMw4Ztae",
+          "size": "354.44 KB"
+        },
+        {
+          "name": "VLSI Week5 sync1 custom design.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1V1F6gMsaNsJS4-jwLw_wfoo1uI7_Sr8A/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1V1F6gMsaNsJS4-jwLw_wfoo1uI7_Sr8A",
+          "size": "7.80 MB"
+        },
+        {
+          "name": "VLSI Week5 sync2 std cells and FPGA.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1ddSW-kH2g5YeT7urxbMn5YTAfAkNbucM/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ddSW-kH2g5YeT7urxbMn5YTAfAkNbucM",
+          "size": "9.32 MB"
+        },
+        {
+          "name": "VLSI Week5 sync3 FPGA and prog.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1YNPkjIHuOpuOahBXVIK5JHH6y5ar4usr/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1YNPkjIHuOpuOahBXVIK5JHH6y5ar4usr",
+          "size": "10.24 MB"
+        },
+        {
+          "name": "VLSI Week5 sync4 FPGA interconnect IO and XC4000 casestudy.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1m4rvyNuCS63QrcotgCm0fz4XQEsecLCZ/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1m4rvyNuCS63QrcotgCm0fz4XQEsecLCZ",
+          "size": "7.10 MB"
+        }
+      ]
+    }
+  ]
+}

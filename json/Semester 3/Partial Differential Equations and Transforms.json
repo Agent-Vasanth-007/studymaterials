@@ -1,0 +1,203 @@
+{
+  "name": "Partial Differential Equations and Transforms",
+  "type": "folder",
+  "link": "https://drive.google.com/drive/folders/1i2ECmpNsM4-p9jqfnT_DxQnutQfWbCde",
+  "downloadLink": "https://drive.google.com/uc?export=download&id=1MSTSdNm_0ghX-mhI5trelr5BhQaCSNSy",
+  "size": "15.16 MB",
+  "contents": [
+    {
+      "name": "Topic 1 PDE",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1u7hgLFijkFuzZ5wSjOjgXvBcflWaY_zH",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1IDbtWBBYpTzjBLMrpuBWEser0m6CnI1Z",
+      "size": "4.51 MB",
+      "contents": [
+        {
+          "name": "Clairauts eqution.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1C9zWXoPpLgbso6wWKnOW7lH92IoMM7hw/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1C9zWXoPpLgbso6wWKnOW7lH92IoMM7hw",
+          "size": "339.73 KB"
+        },
+        {
+          "name": "Direct solution.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1LQeOusN6KGEvcFAcjcBQByWBf2YMjv5Q/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1LQeOusN6KGEvcFAcjcBQByWBf2YMjv5Q",
+          "size": "345.82 KB"
+        },
+        {
+          "name": "Eliminating arbitary constants.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1pyxFweuCnczzQzrJ39locYUqYbNzozcd/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1pyxFweuCnczzQzrJ39locYUqYbNzozcd",
+          "size": "364.59 KB"
+        },
+        {
+          "name": "Eliminating arbitary functions.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/15GzQoskpMX_MBHfQxsfk0HgoEXK_3Kbs/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=15GzQoskpMX_MBHfQxsfk0HgoEXK_3Kbs",
+          "size": "340.44 KB"
+        },
+        {
+          "name": "Equation involving p, q , z.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1xGUsD1UgjizrrWQdxCA6vwXr_wEihjNT/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1xGUsD1UgjizrrWQdxCA6vwXr_wEihjNT",
+          "size": "360.79 KB"
+        },
+        {
+          "name": "Equation involving p, q.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1FFCGeQHQuGbsnXzKVIfeM5xXIH-a_-Ag/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1FFCGeQHQuGbsnXzKVIfeM5xXIH-a_-Ag",
+          "size": "343.95 KB"
+        },
+        {
+          "name": "Equation xp and yq.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1iHVA7UegwFuY9kEZQLxeJCp-GhLB3YgB/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1iHVA7UegwFuY9kEZQLxeJCp-GhLB3YgB",
+          "size": "344.60 KB"
+        },
+        {
+          "name": "Formulae and QB PDE.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1TEutG485-vF3w7pwfsqHrU5Ejade5uxl/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1TEutG485-vF3w7pwfsqHrU5Ejade5uxl",
+          "size": "428.95 KB"
+        },
+        {
+          "name": "Homogeneous equation.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1tVtBV-tC_26O0H1bXZLavO8-bPxshmQH/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1tVtBV-tC_26O0H1bXZLavO8-bPxshmQH",
+          "size": "387.48 KB"
+        },
+        {
+          "name": "Lagranges equation.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1A9xbpmTZTinCfuh9Te3E8kQGF-mYATne/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1A9xbpmTZTinCfuh9Te3E8kQGF-mYATne",
+          "size": "363.15 KB"
+        },
+        {
+          "name": "Problems in Homogeneous equation.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1EIgWyQvndIALI_wesCQNu8tyuZyweRkg/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1EIgWyQvndIALI_wesCQNu8tyuZyweRkg",
+          "size": "346.15 KB"
+        },
+        {
+          "name": "Solution of PDE -Definition.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/189on4X-RmSEt7SNKDJBC33FPNJ2H1B6l/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=189on4X-RmSEt7SNKDJBC33FPNJ2H1B6l",
+          "size": "332.28 KB"
+        },
+        {
+          "name": "Topic 1-PDE  Course Material.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1pTfAMdgZUXmnImpGjG48ozZ82j-O2FMt/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1pTfAMdgZUXmnImpGjG48ozZ82j-O2FMt",
+          "size": "974.28 KB"
+        }
+      ]
+    },
+    {
+      "name": "Topic 2 Fourier Series",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1Qpe4ZbKO8Mplp_bxpzbDDcW1cGHZj4OE",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1AEWL1k53w5me6R4GgzxXSj8_A9uEocU-",
+      "size": "8.95 MB",
+      "contents": [
+        {
+          "name": "Fourier series.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/10aKS8wsIuzBjbl3WFw9WV7i5d9cFjw7l/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=10aKS8wsIuzBjbl3WFw9WV7i5d9cFjw7l",
+          "size": "1015.89 KB"
+        },
+        {
+          "name": "FS-Q and A  for reference.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1D18vHQyRGOGwN5cklrDnt2pnopTOt_vq/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1D18vHQyRGOGwN5cklrDnt2pnopTOt_vq",
+          "size": "8.15 MB"
+        },
+        {
+          "name": "link for reference.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1XdnGt74nS-LuT76XZvX23Qv6uT1gvQun/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1XdnGt74nS-LuT76XZvX23Qv6uT1gvQun",
+          "size": "16.06 KB"
+        }
+      ]
+    },
+    {
+      "name": "Topic 3 One dimensional equations",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1UU7GzWaWAU0_FeiE_8WpHl4jNbP4OOes",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1qdimC3RFMwXH6qurF1anVfbu_-g4rBUc",
+      "size": "476.12 KB",
+      "contents": [
+        {
+          "name": "Topic3-Application of PDE.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/16Bv8mTX-_tK-W_04BnrWWxLExhe2yRfQ/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=16Bv8mTX-_tK-W_04BnrWWxLExhe2yRfQ",
+          "size": "613.60 KB"
+        }
+      ]
+    },
+    {
+      "name": "Topic 4 Two dimensional equations",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/11yWtjSEk3mVfC24eRA_gi65YU7fPZ2Jn",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1jLbLaXPnt5DRRCDesAOWF4iaDMDoWn05",
+      "size": "195.81 KB",
+      "contents": [
+        {
+          "name": "2D heat.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/18fp9AgjctNE4uWZ3Ct49I1sD4E19DnNL/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=18fp9AgjctNE4uWZ3Ct49I1sD4E19DnNL",
+          "size": "209.91 KB"
+        }
+      ]
+    },
+    {
+      "name": "Topic 5 Fourier Transform",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1GKuXxvvpwo7gEzizVhxMEmNzN_dxTP2T",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1RDyHIC3Rw8ZJbQdoj-eL1-noknXIDHvF",
+      "size": "396.19 KB",
+      "contents": [
+        {
+          "name": "Fourier transform.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1S6ExisdUX2vUZp2TaRH8EjcWtl4pXNs3/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1S6ExisdUX2vUZp2TaRH8EjcWtl4pXNs3",
+          "size": "469.09 KB"
+        }
+      ]
+    },
+    {
+      "name": "Topic 6 Z Transform",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1PArraKTXGHefes4FQJIm_QWg5dBPU09j",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1X9RU5Vs3Z_XOySUrqc3rZEyOBr5djk_b",
+      "size": "669.01 KB",
+      "contents": [
+        {
+          "name": "Z Transform.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1Q2VJ4ZHCWBTKjQYNLy3BVPqCga9NBF60/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1Q2VJ4ZHCWBTKjQYNLy3BVPqCga9NBF60",
+          "size": "769.69 KB"
+        }
+      ]
+    }
+  ]
+}

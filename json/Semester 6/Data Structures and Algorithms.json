@@ -1,0 +1,569 @@
+{
+  "name": "Data Structures and Algorithms",
+  "type": "folder",
+  "link": "https://drive.google.com/drive/folders/13kVzeFSdexZjfONlrRqKzcQm05QZkURT",
+  "downloadLink": "https://drive.google.com/uc?export=download&id=1C5XKl-CJfXRtSR5NDfl4FI_f5eD938Y8",
+  "size": "88.76 MB",
+  "contents": [
+    {
+      "name": "Additonal_Materials_From_Previous_ Batches",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1ALmRbALxXfVt_1rrJjgtKLtAK0W-w3h9",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1h8eUBk-Cgnww3cHogj0ugyf-FbYOpsza",
+      "size": "20.70 MB",
+      "contents": [
+        {
+          "name": "1_ProblemSolving.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1kBJMLSoDbNd2WS4SuxqY1S7-6-p6mHzX/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1kBJMLSoDbNd2WS4SuxqY1S7-6-p6mHzX",
+          "size": "452.20 KB"
+        },
+        {
+          "name": "1_Trees.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1fCRJkT1Rn2SM4kZCxY_ZhkR0Z9IXiV7I/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1fCRJkT1Rn2SM4kZCxY_ZhkR0Z9IXiV7I",
+          "size": "448.62 KB"
+        },
+        {
+          "name": "2_BinaryTree.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1j5RunFHkDAO9MGs9Oq1GdUNXNraGRJvW/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1j5RunFHkDAO9MGs9Oq1GdUNXNraGRJvW",
+          "size": "938.91 KB"
+        },
+        {
+          "name": "2_TopDownDesign.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1CeMcFPHJj21K03kymVX2cvmh-IFtgkuA/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1CeMcFPHJj21K03kymVX2cvmh-IFtgkuA",
+          "size": "457.19 KB"
+        },
+        {
+          "name": "2_topologicalsort.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1VRxqFKfE4iNPM5aC1saSlI09QOvf01wn/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1VRxqFKfE4iNPM5aC1saSlI09QOvf01wn",
+          "size": "806.39 KB"
+        },
+        {
+          "name": "3_1_ExpressionTree.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/16Fvkfa0Tv6BnW-5eJxNJ9oDQ4GPTN8sz/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=16Fvkfa0Tv6BnW-5eJxNJ9oDQ4GPTN8sz",
+          "size": "572.01 KB"
+        },
+        {
+          "name": "3_1_Tree_Coursera.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1loyO55CLUlKN0S24WHVhIIZDnOx0cO8E/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1loyO55CLUlKN0S24WHVhIIZDnOx0cO8E",
+          "size": "549.06 KB"
+        },
+        {
+          "name": "3_Implementation.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ifDsB6Sx8-ssl2DS91DfRmPMqpgIS2jv/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ifDsB6Sx8-ssl2DS91DfRmPMqpgIS2jv",
+          "size": "583.46 KB"
+        },
+        {
+          "name": "3_ShorthestPath.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ziFXeLIEjtCVNvtqsZ0nMDyJbvT04_kh/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ziFXeLIEjtCVNvtqsZ0nMDyJbvT04_kh",
+          "size": "1.18 MB"
+        },
+        {
+          "name": "3_TREE TRAVERSALS.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1FtXIdSP9fya7zBcfF1aUteKlZnMUx3jX/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1FtXIdSP9fya7zBcfF1aUteKlZnMUx3jX",
+          "size": "948.65 KB"
+        },
+        {
+          "name": "4_BST.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1xYpOZ9W8gS3SBQ-8EPC8dN0ZBMoxA4Is/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1xYpOZ9W8gS3SBQ-8EPC8dN0ZBMoxA4Is",
+          "size": "739.65 KB"
+        },
+        {
+          "name": "4_MST.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1uNWwcKlfH5y8kqXjfdRri7luu4-CmcCr/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1uNWwcKlfH5y8kqXjfdRri7luu4-CmcCr",
+          "size": "810.63 KB"
+        },
+        {
+          "name": "4_Verification.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1nfsCN3GRj3-x10G980ckfZdzB5y4xQfE/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1nfsCN3GRj3-x10G980ckfZdzB5y4xQfE",
+          "size": "470.52 KB"
+        },
+        {
+          "name": "5_Algorithm.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1wnoEHBAw5tvdH9zV5s1TQ-WQfN0H7a8L/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1wnoEHBAw5tvdH9zV5s1TQ-WQfN0H7a8L",
+          "size": "464.73 KB"
+        },
+        {
+          "name": "5_AVL.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/16IAV-efi6LCZtn0W3KEABxohlq_KyZFk/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=16IAV-efi6LCZtn0W3KEABxohlq_KyZFk",
+          "size": "1.31 MB"
+        },
+        {
+          "name": "5_DFS.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ie3OOi_sxJeM8wc6vjoMg1GhjAGmAYFC/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ie3OOi_sxJeM8wc6vjoMg1GhjAGmAYFC",
+          "size": "883.62 KB"
+        },
+        {
+          "name": "APPLICATIONS OF STACK.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1PtnL4KsQESyXE_VAqLtybVeselNchM3H/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1PtnL4KsQESyXE_VAqLtybVeselNchM3H",
+          "size": "1.28 MB"
+        },
+        {
+          "name": "CLL.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1YzJhzgfP-XYVNrLfNVJqHR9TwHWcPSEx/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1YzJhzgfP-XYVNrLfNVJqHR9TwHWcPSEx",
+          "size": "550.76 KB"
+        },
+        {
+          "name": "DLL.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1J4G3HFUXQmy-FG_yNTtg3MLBp8YWXr2p/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1J4G3HFUXQmy-FG_yNTtg3MLBp8YWXr2p",
+          "size": "689.71 KB"
+        },
+        {
+          "name": "EXPEVAL.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ETGrqo_GpFv7hPNHW0I4rQmHOqseDnuK/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ETGrqo_GpFv7hPNHW0I4rQmHOqseDnuK",
+          "size": "93.72 KB"
+        },
+        {
+          "name": "Graphs.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/178wcc2Q-cB2Xck3COLUoiXIQsjCpssPA/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=178wcc2Q-cB2Xck3COLUoiXIQsjCpssPA",
+          "size": "985.03 KB"
+        },
+        {
+          "name": "HASHING.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1hHg-0DlqHqYhE64gTtU5BYCm40qlL6wP/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1hHg-0DlqHqYhE64gTtU5BYCm40qlL6wP",
+          "size": "1.19 MB"
+        },
+        {
+          "name": "heap.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1FN9u_TMt4_wwubX3zdqsM5lBSTAhM5vA/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1FN9u_TMt4_wwubX3zdqsM5lBSTAhM5vA",
+          "size": "889.13 KB"
+        },
+        {
+          "name": "InfixToPostfixExamples.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1R9ymOxeXh_ZVgQiacIROSlobICBGwdB_/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1R9ymOxeXh_ZVgQiacIROSlobICBGwdB_",
+          "size": "221.97 KB"
+        },
+        {
+          "name": "INSERTION.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1FPF972XA8w6s9vIU3Ru4NvIoTrzA0fSV/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1FPF972XA8w6s9vIU3Ru4NvIoTrzA0fSV",
+          "size": "546.81 KB"
+        },
+        {
+          "name": "LL_Stack.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1UAkYkBX4fGep1BWqZc6e0kb6nlvxnMk4/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1UAkYkBX4fGep1BWqZc6e0kb6nlvxnMk4",
+          "size": "758.18 KB"
+        },
+        {
+          "name": "Merge.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1szCowyi2X87Ffc9lsaYfRD-hFKkZlKuN/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1szCowyi2X87Ffc9lsaYfRD-hFKkZlKuN",
+          "size": "514.15 KB"
+        },
+        {
+          "name": "PriorityQueue_Coursera.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/19_1ji33ywHI-u1SY1aKuDaSx6tF7OM8T/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=19_1ji33ywHI-u1SY1aKuDaSx6tF7OM8T",
+          "size": "263.04 KB"
+        },
+        {
+          "name": "ProrityQueue.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1h6ZvUwo2hI1Dv8RMdpGgLZX-IhpRMtHl/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1h6ZvUwo2hI1Dv8RMdpGgLZX-IhpRMtHl",
+          "size": "557.21 KB"
+        },
+        {
+          "name": "Queue_Coursera.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1jKBekETzYW9wQDxko8P2uN8itnB1UZg1/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1jKBekETzYW9wQDxko8P2uN8itnB1UZg1",
+          "size": "546.47 KB"
+        },
+        {
+          "name": "Queue.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/117jqPvteBetGkpiUoFxmku7xsaKScfEk/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=117jqPvteBetGkpiUoFxmku7xsaKScfEk",
+          "size": "1.01 MB"
+        },
+        {
+          "name": "quick.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1NtYhhbu8YpkRp6DVvUjxe-1h3WPtjzVL/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1NtYhhbu8YpkRp6DVvUjxe-1h3WPtjzVL",
+          "size": "624.13 KB"
+        },
+        {
+          "name": "SLL.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1jy39hxmpz-g_r0Lv0NF3cTkR94ZEkPY0/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1jy39hxmpz-g_r0Lv0NF3cTkR94ZEkPY0",
+          "size": "532.66 KB"
+        },
+        {
+          "name": "SORTING.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ugUYeQPI9DAxgtyl5bUuEM7_6KADwKXq/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ugUYeQPI9DAxgtyl5bUuEM7_6KADwKXq",
+          "size": "601.04 KB"
+        },
+        {
+          "name": "Stack_Operations.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1e-QHhcdzw-60lgLuwd9cpvCTJehf8Gej/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1e-QHhcdzw-60lgLuwd9cpvCTJehf8Gej",
+          "size": "464.85 KB"
+        },
+        {
+          "name": "Stack.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1xk0VxTCGRxU285tK4IEJJt_-BryhS0il/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1xk0VxTCGRxU285tK4IEJJt_-BryhS0il",
+          "size": "539.63 KB"
+        }
+      ]
+    },
+    {
+      "name": "Lab",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/12HUwhmyTYAoODSFrgA2yLykSN-dOqk8g",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1N2agiynBmIcOPaax1JCUtYFHMFzEcgAV",
+      "size": "19.54 MB",
+      "contents": [
+        {
+          "name": "consolidated outputs",
+          "type": "folder",
+          "link": "https://drive.google.com/drive/folders/1-2GRITMyll4xlVel0L7RKfBYNLevS27t",
+          "downloadLink": null,
+          "size": null,
+          "contents": [
+            {
+              "name": "exp1,exp2.png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1ZwiUPM-RVAb0CQ_GjIdkavxlKARy0Hqw/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1ZwiUPM-RVAb0CQ_GjIdkavxlKARy0Hqw",
+              "size": "1.09 MB"
+            },
+            {
+              "name": "exp1,exp2.psd",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1f3tcVS27WIwMiJhurM-ySkVtQ2IihIcm/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1f3tcVS27WIwMiJhurM-ySkVtQ2IihIcm",
+              "size": "5.52 MB"
+            },
+            {
+              "name": "exp3.png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1ZnGztxICGlyCrQ3tt01-Z6vIGlAS52rR/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1ZnGztxICGlyCrQ3tt01-Z6vIGlAS52rR",
+              "size": "855.91 KB"
+            },
+            {
+              "name": "exp3.psd",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1c1BtF3ZdtdA7wxdgpTd95oESd83xzSEj/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1c1BtF3ZdtdA7wxdgpTd95oESd83xzSEj",
+              "size": "5.31 MB"
+            },
+            {
+              "name": "exp4.png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1LX5dhDdCyZHtDNH1FynXh6kaHvpETY35/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1LX5dhDdCyZHtDNH1FynXh6kaHvpETY35",
+              "size": "862.99 KB"
+            },
+            {
+              "name": "exp4.psd",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1D35_kDXXUN6fY40ETP_mH9h7RuPAY0JR/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1D35_kDXXUN6fY40ETP_mH9h7RuPAY0JR",
+              "size": "5.02 MB"
+            },
+            {
+              "name": "exp5,exp6.png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1U9u6ptdUhRo0ATOQaul-fE_RhBrsrHix/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1U9u6ptdUhRo0ATOQaul-fE_RhBrsrHix",
+              "size": "841.94 KB"
+            },
+            {
+              "name": "exp5,exp6.psd",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1yHNQL6msRGGPR5pF2nAmPr8f2XOik315/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1yHNQL6msRGGPR5pF2nAmPr8f2XOik315",
+              "size": "3.24 MB"
+            },
+            {
+              "name": "exp7,exp9,exp10.png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1SIkxDILNrIA76XxF4UhXokb7-5BxxkL-/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1SIkxDILNrIA76XxF4UhXokb7-5BxxkL-",
+              "size": "539.31 KB"
+            },
+            {
+              "name": "exp7,exp9,exp10.psd",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/17MnWDXRipCdJ4PBhsY6cgEUknIH4FXmm/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=17MnWDXRipCdJ4PBhsY6cgEUknIH4FXmm",
+              "size": "2.86 MB"
+            },
+            {
+              "name": "exp8.png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/16YeqtUvm_Tz-AS3LHlMgvwAyf1swf59T/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=16YeqtUvm_Tz-AS3LHlMgvwAyf1swf59T",
+              "size": "1.23 MB"
+            },
+            {
+              "name": "exp8.psd",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1fphUA3feBSC9yqZSTOiI7hmpWC_P-2WH/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1fphUA3feBSC9yqZSTOiI7hmpWC_P-2WH",
+              "size": "4.67 MB"
+            }
+          ]
+        },
+        {
+          "name": "ex1.c",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1DPucv-qAP8mTpOYII5CLqhg_SlCGa0Qa/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1DPucv-qAP8mTpOYII5CLqhg_SlCGa0Qa",
+          "size": "1.77 KB"
+        },
+        {
+          "name": "ex10.c",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1jrnFdXemfYzjdpz4urG0p6d4kQKJdv7W/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1jrnFdXemfYzjdpz4urG0p6d4kQKJdv7W",
+          "size": "880 bytes"
+        },
+        {
+          "name": "ex2.c",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1-QDgi1fQsvQjYWMNZndzIOKU_pIvyZlu/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1-QDgi1fQsvQjYWMNZndzIOKU_pIvyZlu",
+          "size": "3.35 KB"
+        },
+        {
+          "name": "ex3.c",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1v2OXRuHJhUOf8Pyt45G3KJzpgLXZX4y7/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1v2OXRuHJhUOf8Pyt45G3KJzpgLXZX4y7",
+          "size": "10.71 KB"
+        },
+        {
+          "name": "ex4a.c",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1nztHEOADpint2kYMuoV-ru4PiMpwBXao/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1nztHEOADpint2kYMuoV-ru4PiMpwBXao",
+          "size": "11.58 KB"
+        },
+        {
+          "name": "ex5.c",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1lCWtIHvn_XOhAPubcBPAYkKN5FabaZMm/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1lCWtIHvn_XOhAPubcBPAYkKN5FabaZMm",
+          "size": "2.02 KB"
+        },
+        {
+          "name": "ex6.c",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1NXDybSC2VgPnkv0ghiwfwnatdP5Mbxtx/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1NXDybSC2VgPnkv0ghiwfwnatdP5Mbxtx",
+          "size": "2.52 KB"
+        },
+        {
+          "name": "ex7.c",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1oricvV22Hwz_LeN41g_YIGH8TJYLOAZO/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1oricvV22Hwz_LeN41g_YIGH8TJYLOAZO",
+          "size": "3.66 KB"
+        },
+        {
+          "name": "ex8.c",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1c45ADD55wxCk5wKDOJNGibaJHWDJcSQT/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1c45ADD55wxCk5wKDOJNGibaJHWDJcSQT",
+          "size": "6.89 KB"
+        },
+        {
+          "name": "ex9.c",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/199IRYKxIt6BGkINWY8RFllqldzxA64ju/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=199IRYKxIt6BGkINWY8RFllqldzxA64ju",
+          "size": "1.18 KB"
+        },
+        {
+          "name": "Manual_10-12-23-U18CSI6211-DSA LAB.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1yAhaIwxdlQeKrsg5NEYq710h4DPQEzjN/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1yAhaIwxdlQeKrsg5NEYq710h4DPQEzjN",
+          "size": "543.42 KB"
+        }
+      ]
+    },
+    {
+      "name": "Last year question paper",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1TLVBEgQVfZRWD3gQgeBg1tH4B9A754ml",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1PnF_Ut833IxdKdgP-QHSxY-Q_aOiYS7r",
+      "size": "240.73 KB",
+      "contents": [
+        {
+          "name": "1.jpg",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1VS2UCtdXdyNSgyz3tXCSnRx5AqIVC0Ni/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1VS2UCtdXdyNSgyz3tXCSnRx5AqIVC0Ni",
+          "size": "146.44 KB"
+        },
+        {
+          "name": "2.jpg",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1N85c3fGKF9rWiTRt3ADL9IIKnkCDvuWn/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1N85c3fGKF9rWiTRt3ADL9IIKnkCDvuWn",
+          "size": "105.49 KB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 1",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1_uy-iWrX2Kh96RoLVqRYjfwDoe8N_HdD",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1mxi_AGGZlapZE5z77lqrVmccMF63N4A8",
+      "size": "6.68 MB",
+      "contents": [
+        {
+          "name": "Module 1.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1AQy8a5Yae4ArqxA9atK1vc1AAeo9bV3R/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1AQy8a5Yae4ArqxA9atK1vc1AAeo9bV3R",
+          "size": "4.91 MB"
+        },
+        {
+          "name": "ProblemSolving.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1hR2dyasCMGC4U-fd0ELHMThIi5nuWsVd/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1hR2dyasCMGC4U-fd0ELHMThIi5nuWsVd",
+          "size": "1.99 MB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/10uA6FlOK4YJvvCnB3yn2bBM5kfMpm05B",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1gQjf_LsfG8SIttngAuODTo8AIXT_FOf5",
+      "size": "3.10 MB",
+      "contents": [
+        {
+          "name": "Module 2.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1kuXRKs6mumLKrQRfPtSZfNqW9kJrK2y5/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1kuXRKs6mumLKrQRfPtSZfNqW9kJrK2y5",
+          "size": "3.22 MB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1ZC4UJx9DSGpgWeHSBEKV_fnOQL06Cxqi",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1D_QLAcUSPzD-HvXFIwRV9rLFOdP5V0OI",
+      "size": "375.18 KB",
+      "contents": [
+        {
+          "name": "NPCOMLETE AND DEPTH FIRST MATERIAL.docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1w2qOquf0afU0fvcYtXteaBYlTDB1q5fg/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1w2qOquf0afU0fvcYtXteaBYlTDB1q5fg",
+          "size": "395.33 KB"
+        }
+      ]
+    },
+    {
+      "name": "12A.U18CSI6211_Questions_12_January_2023.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1WYLQrUlWkDMjW5w3gJgURsHYgt73UCh1/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1WYLQrUlWkDMjW5w3gJgURsHYgt73UCh1",
+      "size": "62.68 KB"
+    },
+    {
+      "name": "How To Solve It By Computer.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1V5uynb6Y5OKvKgVJBSdvmASxzpOfnTFp/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1V5uynb6Y5OKvKgVJBSdvmASxzpOfnTFp",
+      "size": "21.80 MB"
+    },
+    {
+      "name": "Introduction_to_Algorithms_Third_Edition_(2009).pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1a3e0QzAxkgWq3wC9HJmtVjHneaRtgKgH/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1a3e0QzAxkgWq3wC9HJmtVjHneaRtgKgH",
+      "size": "4.84 MB"
+    },
+    {
+      "name": "overall ppt.pptx",
+      "type": "file",
+      "link": "https://docs.google.com/presentation/d/1lKQBWkDZ8KWgSEcyrMW-x53WI3A7XhuO/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1lKQBWkDZ8KWgSEcyrMW-x53WI3A7XhuO",
+      "size": "18.47 MB"
+    },
+    {
+      "name": "time and space complexities.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/17QaxVdmqNLztC2uu91vazAYgWLT2isaX/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=17QaxVdmqNLztC2uu91vazAYgWLT2isaX",
+      "size": "1.52 MB"
+    },
+    {
+      "name": "time and space complexity for all sorting algorithms.png",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1ty5EWySYsTSilXJd7cxhynSmsolconwm/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1ty5EWySYsTSilXJd7cxhynSmsolconwm",
+      "size": "80.84 KB"
+    }
+  ]
+}

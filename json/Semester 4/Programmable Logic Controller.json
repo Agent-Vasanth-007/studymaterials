@@ -1,0 +1,438 @@
+{
+  "name": "Programmable Logic Controller",
+  "type": "folder",
+  "link": "https://drive.google.com/drive/folders/1IimFiE-3rM7ERxEVHO2uAoJXRhXPInXN",
+  "downloadLink": "https://drive.google.com/uc?export=download&id=1GMnUrIX0u4sIKBaTACRkJDCmxI4sLD2T",
+  "size": null,
+  "contents": [
+    {
+      "name": "Lab",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/1m82uPIOKPlF4LlcdrOlVjKtkMvNszcxZ",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=14X7OwpWsMCODZ3IXK-YbT-awvVW47K9p",
+      "size": "11.64 MB",
+      "contents": [
+        {
+          "name": "edited",
+          "type": "folder",
+          "link": "https://drive.google.com/drive/folders/1hCMLNRYR-6dTZ-k9s_NiHWGIt-FzLbnx",
+          "downloadLink": null,
+          "size": null,
+          "contents": [
+            {
+              "name": "combinational,-offtimer-&-upcounter.png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1axnTk3o63WII_G9lzacDz94pqLRPKNkh/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1axnTk3o63WII_G9lzacDz94pqLRPKNkh",
+              "size": "218.43 KB"
+            },
+            {
+              "name": "flipflop-&-downcounter.png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1Y2zzpJ4OtKtIyg24YDGPotGesEjW1J6w/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1Y2zzpJ4OtKtIyg24YDGPotGesEjW1J6w",
+              "size": "106.33 KB"
+            },
+            {
+              "name": "logic-gates-&-ontimer.png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1-ovtgB73OqC8S3zMdqHI_qDOOrdyjsKu/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1-ovtgB73OqC8S3zMdqHI_qDOOrdyjsKu",
+              "size": "141.42 KB"
+            }
+          ]
+        },
+        {
+          "name": "Raw",
+          "type": "folder",
+          "link": "https://drive.google.com/drive/folders/1e3SroeYQTdekIhPxM_AYTsZRqZGb_NpR",
+          "downloadLink": null,
+          "size": null,
+          "contents": [
+            {
+              "name": "counter",
+              "type": "folder",
+              "link": "https://drive.google.com/drive/folders/1aIVNtwOJik1U9O5m-mhuK3A8S7ayZCAG",
+              "downloadLink": null,
+              "size": null,
+              "contents": [
+                {
+                  "name": "counterdown.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/19rUh_oamSXVdIpdWIruO2HYwB8yHmxnf/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=19rUh_oamSXVdIpdWIruO2HYwB8yHmxnf",
+                  "size": "9.74 KB"
+                },
+                {
+                  "name": "counterup.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1PFN0yt8VP3p-KjjNVT7hz-S6uVwpA0oc/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1PFN0yt8VP3p-KjjNVT7hz-S6uVwpA0oc",
+                  "size": "9.43 KB"
+                }
+              ]
+            },
+            {
+              "name": "flip flop",
+              "type": "folder",
+              "link": "https://drive.google.com/drive/folders/1eW6sEHIcAIlS9cwg9r0_-3I9d7k3oEkr",
+              "downloadLink": null,
+              "size": null,
+              "contents": [
+                {
+                  "name": "sr flip flop.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1JHM1WURt-u9bDxdrLm66UX6onG_sutJe/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1JHM1WURt-u9bDxdrLm66UX6onG_sutJe",
+                  "size": "13.68 KB"
+                },
+                {
+                  "name": "t flip flop.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1E2w04fsvmUeRialaMEVlq4dpNIKX0qve/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1E2w04fsvmUeRialaMEVlq4dpNIKX0qve",
+                  "size": "230.91 KB"
+                }
+              ]
+            },
+            {
+              "name": "logic gates",
+              "type": "folder",
+              "link": "https://drive.google.com/drive/folders/1yjGdeaPi69e94tlRiZEGgLcs007d7bOQ",
+              "downloadLink": null,
+              "size": null,
+              "contents": [
+                {
+                  "name": "AND.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/14hfPmj5RAfd7_XgXY1jnv7G34RHH4jCw/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=14hfPmj5RAfd7_XgXY1jnv7G34RHH4jCw",
+                  "size": "4.23 KB"
+                },
+                {
+                  "name": "EXOR.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1zfqMluyxHEgSLDRtsGJpC34AtsaZCjwF/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1zfqMluyxHEgSLDRtsGJpC34AtsaZCjwF",
+                  "size": "6.05 KB"
+                },
+                {
+                  "name": "NAND.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1kJnvLAMgFFiWTAcA8R-gdzLOmiUJ7V8T/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1kJnvLAMgFFiWTAcA8R-gdzLOmiUJ7V8T",
+                  "size": "4.61 KB"
+                },
+                {
+                  "name": "NOR.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1pzDJW3Diw8MZ5GKS-qtbtCQYHn5PhQWW/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1pzDJW3Diw8MZ5GKS-qtbtCQYHn5PhQWW",
+                  "size": "5.77 KB"
+                },
+                {
+                  "name": "NOT.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1aef1vVxfj24hfOF6_RqTzXkqYfRoG1gm/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1aef1vVxfj24hfOF6_RqTzXkqYfRoG1gm",
+                  "size": "4.47 KB"
+                },
+                {
+                  "name": "OR.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1ZxXhaQ-xQmyCiP514TNqXQKFpcHqNsHx/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1ZxXhaQ-xQmyCiP514TNqXQKFpcHqNsHx",
+                  "size": "5.26 KB"
+                }
+              ]
+            },
+            {
+              "name": "sequential",
+              "type": "folder",
+              "link": "https://drive.google.com/drive/folders/1ZGtqt5036ELZM-Vembf-nwWYo8MZSabP",
+              "downloadLink": null,
+              "size": null,
+              "contents": [
+                {
+                  "name": "Screenshot (38).png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1i8STzCSUBIjD9HqsDfYbt915G7xsUUpl/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1i8STzCSUBIjD9HqsDfYbt915G7xsUUpl",
+                  "size": "17.18 KB"
+                },
+                {
+                  "name": "Screenshot (39).png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1AR1hygbu1uGoPHH9S9R2K8hQIoMDlf9m/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1AR1hygbu1uGoPHH9S9R2K8hQIoMDlf9m",
+                  "size": "11.92 KB"
+                }
+              ]
+            },
+            {
+              "name": "stepper motor forward (l)",
+              "type": "folder",
+              "link": "https://drive.google.com/drive/folders/1p6xzyso7cnwoEADyR-APZV73ehdGxMTb",
+              "downloadLink": null,
+              "size": null,
+              "contents": [
+                {
+                  "name": "Screenshot (82).png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1Y8vsAB8D__nTtYxiNDgI0eSGbHWKycHV/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1Y8vsAB8D__nTtYxiNDgI0eSGbHWKycHV",
+                  "size": "204.38 KB"
+                },
+                {
+                  "name": "Screenshot (83).png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1HpBcEMcyH2VYzc0LDa0PsmAiryLi81po/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1HpBcEMcyH2VYzc0LDa0PsmAiryLi81po",
+                  "size": "199.94 KB"
+                }
+              ]
+            },
+            {
+              "name": "stepper motor reverse (l)",
+              "type": "folder",
+              "link": "https://drive.google.com/drive/folders/1MOeUSDUD1T6XoLYOW2OKe6lVuIHm1Q3Y",
+              "downloadLink": null,
+              "size": null,
+              "contents": [
+                {
+                  "name": "Screenshot (86).png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/10J0MEeAr2btDbibI1ieW6u95UUwV-Ssg/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=10J0MEeAr2btDbibI1ieW6u95UUwV-Ssg",
+                  "size": "204.44 KB"
+                },
+                {
+                  "name": "Screenshot (87).png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1UjmyKmApXxp35OI10KDRyedtuEVgyRjT/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1UjmyKmApXxp35OI10KDRyedtuEVgyRjT",
+                  "size": "199.99 KB"
+                }
+              ]
+            },
+            {
+              "name": "timer",
+              "type": "folder",
+              "link": "https://drive.google.com/drive/folders/1QNpsajOklOrLI8z9nnAeZA6SlBOrqtg8",
+              "downloadLink": null,
+              "size": null,
+              "contents": [
+                {
+                  "name": "timeroff.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1qCurjRF5TuzuzoPT0RomYImCvLXCKGAR/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1qCurjRF5TuzuzoPT0RomYImCvLXCKGAR",
+                  "size": "7.37 KB"
+                },
+                {
+                  "name": "timeron.png",
+                  "type": "file",
+                  "link": "https://drive.google.com/file/d/1npkaGCTSezb94-aDaecND5at4ZFp-Cwd/view?usp=drivesdk",
+                  "downloadLink": "https://drive.google.com/uc?export=download&id=1npkaGCTSezb94-aDaecND5at4ZFp-Cwd",
+                  "size": "8.15 KB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "stepper motor forward",
+          "type": "folder",
+          "link": "https://drive.google.com/drive/folders/1SVe-661oyQP3uiySVy5y_4JszOJo1A4B",
+          "downloadLink": null,
+          "size": null,
+          "contents": [
+            {
+              "name": "Screenshot (82).png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1tFtdeovSMw_dW3064eCN_5aYHkeUr3Gs/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1tFtdeovSMw_dW3064eCN_5aYHkeUr3Gs",
+              "size": "204.38 KB"
+            },
+            {
+              "name": "Screenshot (83).png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1KeNPOywikPXAN0u8vhdinxtCIBnd81WP/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1KeNPOywikPXAN0u8vhdinxtCIBnd81WP",
+              "size": "199.94 KB"
+            }
+          ]
+        },
+        {
+          "name": "stepper motor reverse",
+          "type": "folder",
+          "link": "https://drive.google.com/drive/folders/1Gp-V107ebFsoCqh0XT8zRc5D4mC5h9zw",
+          "downloadLink": null,
+          "size": null,
+          "contents": [
+            {
+              "name": "Screenshot (86).png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1Uiku33uf8QJVJmcrAI4_ec8YS39FUU1y/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1Uiku33uf8QJVJmcrAI4_ec8YS39FUU1y",
+              "size": "204.44 KB"
+            },
+            {
+              "name": "Screenshot (87).png",
+              "type": "file",
+              "link": "https://drive.google.com/file/d/1fT8FZtuD_Kig1Wy7rR_oSkt_mlsuFR1k/view?usp=drivesdk",
+              "downloadLink": "https://drive.google.com/uc?export=download&id=1fT8FZtuD_Kig1Wy7rR_oSkt_mlsuFR1k",
+              "size": "199.99 KB"
+            }
+          ]
+        },
+        {
+          "name": "1715861004184.jpg",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1anN3RmFjEVm2rnsH_TSsBqk9q5O21-tH/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1anN3RmFjEVm2rnsH_TSsBqk9q5O21-tH",
+          "size": "3.45 MB"
+        },
+        {
+          "name": "1715861004201.jpg",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1Dhub9tZm_NVj0veSMKct6xIzLbyGXriq/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1Dhub9tZm_NVj0veSMKct6xIzLbyGXriq",
+          "size": "3.25 MB"
+        },
+        {
+          "name": "1715861053526.jpg",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1ED0YHg_KkBdTWdRkzzfREGLE0W5YFVHr/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ED0YHg_KkBdTWdRkzzfREGLE0W5YFVHr",
+          "size": "2.74 MB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 1",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/15a07YNL_m-5SPBbDKAAKw4tmb_QLK-ce",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1l1IrRAJy-d53H8jOXPzil4U7VUbO-fvh",
+      "size": "13.45 MB",
+      "contents": [
+        {
+          "name": "plc material unit 1.doc",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1G5dKYakt4XtsyXt5OgJr2z6hY_AySxOq/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1G5dKYakt4XtsyXt5OgJr2z6hY_AySxOq",
+          "size": "7.38 MB"
+        },
+        {
+          "name": "plc_selection.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1-0IJ6jAjiXpEDZWvALPxvQa-sEbZiBif/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1-0IJ6jAjiXpEDZWvALPxvQa-sEbZiBif",
+          "size": "61.33 KB"
+        },
+        {
+          "name": "unit 1.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1P6gGSffRZ0Dxi1hTAprOY3XrHdNthglC/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1P6gGSffRZ0Dxi1hTAprOY3XrHdNthglC",
+          "size": "4.98 MB"
+        },
+        {
+          "name": "Unit-1.ppt",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1alH_QBKTfd1KuLIMmvLnPfO98OUQzSQr/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1alH_QBKTfd1KuLIMmvLnPfO98OUQzSQr",
+          "size": "2.24 MB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/15OeGuC1ktYbBKZCcndAngWUgx31LAbwW",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1BmXGWgABp2Wx9qyO3xGHrZul-fElZJb3",
+      "size": "23.03 MB",
+      "contents": [
+        {
+          "name": "counters.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1DWL_jxk_HrvvbCdIsdxLwI_udAYDtbi3/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1DWL_jxk_HrvvbCdIsdxLwI_udAYDtbi3",
+          "size": "179.17 KB"
+        },
+        {
+          "name": "PLC Timers.mp4",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1kph_pj9J4dZrSfQkmfxQChTF7pY_korx/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1kph_pj9J4dZrSfQkmfxQChTF7pY_korx",
+          "size": "23.26 MB"
+        },
+        {
+          "name": "PLC Timers.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/1Yvpia7qd3BDg6cxfbawnj8CGWC4z4XUm/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1Yvpia7qd3BDg6cxfbawnj8CGWC4z4XUm",
+          "size": "302.60 KB"
+        },
+        {
+          "name": "timers_AND_COUNTERS[1].docx",
+          "type": "file",
+          "link": "https://docs.google.com/document/d/1kjNJE5l6Req8a2aTaaJ2eqhnZ3OLYZH0/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1kjNJE5l6Req8a2aTaaJ2eqhnZ3OLYZH0",
+          "size": "55.83 KB"
+        },
+        {
+          "name": "UNIT II PLC PROGRAMMING.ppt",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1JypIP15bwzzVp9n4xCqLCS7G0NIjqwqg/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1JypIP15bwzzVp9n4xCqLCS7G0NIjqwqg",
+          "size": "422.50 KB"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "type": "folder",
+      "link": "https://drive.google.com/drive/folders/16XDc4PkxFkquOex5ZXY0dd90cSsLW1Hp",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1oB6hZ7UrD8xD_--lEtWHtzsusbB8xw9U",
+      "size": "2.45 MB",
+      "contents": [
+        {
+          "name": "Applications of PLC.pptx",
+          "type": "file",
+          "link": "https://docs.google.com/presentation/d/1ZxPKMc-3QuBnv5cnwGPNafUKasdM0bUf/edit?usp=drivesdk&ouid=111054711871713126265&rtpof=true&sd=true",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=1ZxPKMc-3QuBnv5cnwGPNafUKasdM0bUf",
+          "size": "748.68 KB"
+        },
+        {
+          "name": "sequencer instructions.pdf.pdf",
+          "type": "file",
+          "link": "https://drive.google.com/file/d/12aYE4nSnK9ntg80RcimyUdqFRwcDxteQ/view?usp=drivesdk",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=12aYE4nSnK9ntg80RcimyUdqFRwcDxteQ",
+          "size": "1.80 MB"
+        }
+      ]
+    },
+    {
+      "name": "PLC AUTOMATION SYLLABUS.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1p25QoAJEibIyQQKjXfXFNqCYHIHK7yEF/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1p25QoAJEibIyQQKjXfXFNqCYHIHK7yEF",
+      "size": "223.60 KB"
+    },
+    {
+      "name": "Question bank.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1AtRdR1Pe7m11Y2lmUDTB6HHIftze7Hya/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1AtRdR1Pe7m11Y2lmUDTB6HHIftze7Hya",
+      "size": "89.97 KB"
+    },
+    {
+      "name": "T.N.MANIMARAN - PLC Notes .pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1xWxWqQhUVQNf6fRdhgdGueTdVNYU8hJi/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1xWxWqQhUVQNf6fRdhgdGueTdVNYU8hJi",
+      "size": "5.34 MB"
+    }
+  ]
+}

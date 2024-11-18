@@ -1,0 +1,44 @@
+{
+  "name": "Question Papers",
+  "type": "folder",
+  "link": "https://drive.google.com/drive/folders/1GP0_xZHKia-Gx4wQDINy1l7cp3TJsi_4",
+  "downloadLink": "https://drive.google.com/uc?export=download&id=187Z20AKbc3uDD13TYxvzgjRFuPKuP5Zc",
+  "size": "6.19 MB",
+  "contents": [
+    {
+      "name": "Analog Electronics.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/14OximJy3DlFaEXT45OWMALbtNVY5Zk7e/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=14OximJy3DlFaEXT45OWMALbtNVY5Zk7e",
+      "size": "1.37 MB"
+    },
+    {
+      "name": "DC Machines and Transformers.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/10HDtB_zueUe7JHtPsuigMfXtGH8FOCJ8/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=10HDtB_zueUe7JHtPsuigMfXtGH8FOCJ8",
+      "size": "1.69 MB"
+    },
+    {
+      "name": "Electromagnetic Fields.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1fzGNxPN8hCoqfzXSkER9dpiiZYKC7alL/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1fzGNxPN8hCoqfzXSkER9dpiiZYKC7alL",
+      "size": "1.68 MB"
+    },
+    {
+      "name": "Maths.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/13KtYhp65SpqIvZypxAiRbdrU6A5POEZ4/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=13KtYhp65SpqIvZypxAiRbdrU6A5POEZ4",
+      "size": "309.47 KB"
+    },
+    {
+      "name": "Measurements and Instrumentation.pdf",
+      "type": "file",
+      "link": "https://drive.google.com/file/d/1PR-uBegZD-qpScr59nSuzfzFmTO9MElx/view?usp=drivesdk",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1PR-uBegZD-qpScr59nSuzfzFmTO9MElx",
+      "size": "1.36 MB"
+    }
+  ]
+}
