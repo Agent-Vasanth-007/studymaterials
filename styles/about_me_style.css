@@ -29,39 +29,6 @@ h2 {
     padding-bottom: 10px;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-    display: grid;
-    gap: 10px;
-}
-
-/* Grid styling for the Available Materials section */
-.materials-grid {
-    grid-template-columns: repeat(3, 1fr); /* 3 items per row */
-    justify-content: center;
-}
-.others-grid {
-    grid-template-columns: repeat(2, 1fr); /* 2 items per row */
-}
-
-li {
-    margin: 15px 0;
-}
-
-.sem, .oth {
-    padding-left: 50px; /* Retain original left padding */
-    padding-right: 50px; /* Retain original right padding */
-    text-align: center; /* Center text for better appearance */
-    justify-content: center;
-}
-
-@media (min-width: 600px) {
-    .oth {
-        margin-left: -100px;
-    }
-}
-
 a {
     text-decoration: none;
     color: #dee1ff;
@@ -80,8 +47,7 @@ a:hover {
 }
 
 .personal-details {
-    margin-top: 30px;
-    padding-top: 20px;
+    margin-top: -10px;
 }
 
 .detail-item {
@@ -95,11 +61,6 @@ a:hover {
 .detail-item strong {
     flex: 0 0 30%;
     margin-right: 10px;
-}
-
-.others {
-    margin-top: 30px;
-    padding-top: 20px;
 }
 
 @media (max-width: 600px) {
@@ -121,63 +82,6 @@ a:hover {
         padding: 8px 12px;
     }
 
-    .materials-grid {
-        grid-template-columns: repeat(2, 1fr); /* 2 item per row on small screens */
-    }
-
-    .others-grid {
-        grid-template-columns: 1fr; /* 1 item per row on small screens */
-    }
-
-    .sem {
-        padding-left: 20px;
-        padding-right: 20px;
-    }
-
-}
-
-.contributions {
-    margin-top: 30px;
-    padding-top: 20px;
-}
-
-.contributions h2 {
-    color: #dee1ff;
-}
-
-.contribute-link {
-    text-decoration: none;
-    color: #dee1ff;
-    padding: 10px 15px;
-    display: inline-block;
-    border: 1px solid #dee1ff;
-    border-radius: 4px;
-    transition: background-color 0.3s, color 0.3s, transform 0.3s;
-    margin-left: 10px;
-}
-
-.contribute-link:hover {
-    background-color: #dee1ff;
-    color: #1c1c2a;
-    transform: translateY(-2px);
-}
-
-footer {
-    text-align: center;
-    font-size: 0.8em;
-    color: #dee1ff;
-}
-
-.social-icons a {
-    margin: 0 5px;
-    display: inline-block;
-    border: none;
-    
-}
-
-.social-icons img {
-    width: 20px;
-    height: 20px;    
 }
 
 .back-btn {
