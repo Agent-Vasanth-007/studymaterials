@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semester 7</title>
+    <link rel="icon" type="image/x-icon" href="images/logo.png">
+    <link rel="stylesheet" href="styles/semester_style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="scripts/script.js"></script>
+</head>
+
+<body class="body">
+    <header class="header">
+        <h1>Semester 7</h1>
+        <a class="back-btn" href="index.html">Back to Main</a>
+    </header>
+
+    <main class="main" id="fileStructure">
+        <h2>Available Materials</h2>
+        <div id="Constitution of India"></div>
+        <div id="Drives for EV"></div>
+        <div id="Electrical Safety and Energy Management"></div>
+        <div id="Engineering Economics and Financial Management"></div>    
+        <div id="Industry 4.0"></div>    
+        <div id="Smart Grid Engineering"></div>    
+        <div id="Special Electrical Machines"></div>    
+        <div id="Question Papers"></div>    
+    </main>
+
+    <footer>
+        <p>Designed by <a href="about_me.html">Vasanth</a></p>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/vasanth.subramanian.169" target="_blank"><img src="images/face.png" alt="Facebook" width="20"></a>
+            <a href="https://www.instagram.com/agent_vasanth_007/" target="_blank"><img src="images/insta.png" alt="Instagram" width="20"></a>
+            <a href="https://www.linkedin.com/in/vasanth-s-847762292/" target="_blank"><img src="images/linked.png" alt="LinkedIn" width="20"></a>
+            <a href="mailto:vasanthdravid06@gmail.com"><img src="images/gmail.png" alt="Email" width="20"></a>
+        </div>
+    </footer>
+
+    <script>
+        async function fetchFileStructure(jsonFile, sectionId) {
+            try {
+                const response = await fetch('json/Semester 7/' + jsonFile);
+                const data = await response.json();
+                renderFileStructure(data, document.getElementById(sectionId));
+            } catch (error) {
+                console.error('Error fetching file structure:', error);
+            }
+        }
+            
+        fetchFileStructure('Constitution of India.json', 'Constitution of India');
+        fetchFileStructure('Drives for EV.json', 'Drives for EV');
+        fetchFileStructure('Electrical Safety and Energy Management.json', 'Electrical Safety and Energy Management');
+        fetchFileStructure('Engineering Economics and Financial Management.json', 'Engineering Economics and Financial Management');
+        fetchFileStructure('Industry 4.0.json', 'Industry 4.0');
+        fetchFileStructure('Smart Grid Engineering.json', 'Smart Grid Engineering');
+        fetchFileStructure('Special Electrical Machines.json', 'Special Electrical Machines');
+        fetchFileStructure('Question Papers.json', 'Question Papers');
+    </script>
+    
+</body>
+</html>
+
+            

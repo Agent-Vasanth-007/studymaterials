@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semester 6</title>
+    <link rel="icon" type="image/x-icon" href="images/logo.png">
+    <link rel="stylesheet" href="styles/semester_style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="scripts/script.js"></script>
+</head>
+
+<body class="body">
+    <header class="header">
+        <h1>Semester 6</h1>
+        <a class="back-btn" href="index.html">Back to Main</a>
+    </header>
+
+    <main class="main" id="fileStructure">
+        <h2>Available Materials</h2>
+        <div id="Automotive Electronics"></div>
+        <div id="Data Structures and Algorithms"></div>
+        <div id="Electric Vehicle Technology"></div>
+        <div id="Embedded Systems"></div>    
+        <div id="Power System Analysis"></div>    
+        <div id="Power System Protection and Switchgear"></div>    
+        <div id="Solid State Drives"></div>    
+        <div id="Question Papers"></div>    
+    </main>
+
+    <footer>
+        <p>Designed by <a href="about_me.html">Vasanth</a></p>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/vasanth.subramanian.169" target="_blank"><img src="images/face.png" alt="Facebook" width="20"></a>
+            <a href="https://www.instagram.com/agent_vasanth_007/" target="_blank"><img src="images/insta.png" alt="Instagram" width="20"></a>
+            <a href="https://www.linkedin.com/in/vasanth-s-847762292/" target="_blank"><img src="images/linked.png" alt="LinkedIn" width="20"></a>
+            <a href="mailto:vasanthdravid06@gmail.com"><img src="images/gmail.png" alt="Email" width="20"></a>
+        </div>
+    </footer>
+
+    <script>
+        async function fetchFileStructure(jsonFile, sectionId) {
+            try {
+                const response = await fetch('json/Semester 6/' + jsonFile);
+                const data = await response.json();
+                renderFileStructure(data, document.getElementById(sectionId));
+            } catch (error) {
+                console.error('Error fetching file structure:', error);
+            }
+        }
+            
+        fetchFileStructure('Automotive Electronics.json', 'Automotive Electronics');
+        fetchFileStructure('Data Structures and Algorithms.json', 'Data Structures and Algorithms');
+        fetchFileStructure('Electric Vehicle Technology.json', 'Electric Vehicle Technology');
+        fetchFileStructure('Embedded Systems.json', 'Embedded Systems');
+        fetchFileStructure('Power System Analysis.json', 'Power System Analysis');
+        fetchFileStructure('Power System Protection and Switchgear.json', 'Power System Protection and Switchgear');
+        fetchFileStructure('Solid State Drives.json', 'Solid State Drives');
+        fetchFileStructure('Question Papers.json', 'Question Papers');
+    </script>
+    
+</body>
+</html>
+
+            
